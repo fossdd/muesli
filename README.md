@@ -12,35 +12,35 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [owncast/owncast](https://github.com/owncast/owncast) - Take control over your live stream video by running it yourself.  Streaming &#43; chat out of the box. (today)
-- [muesli/obs-cli](https://github.com/muesli/obs-cli) - OBS-cli is a command-line remote control for OBS (1 week ago)
-- [charmbracelet/charm](https://github.com/charmbracelet/charm) - The Charm Tool and Library 🌟 (1 week ago)
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄 (1 week ago)
-- [KDE/dolphin](https://github.com/KDE/dolphin) - File manager by KDE (2 weeks ago)
+- [fossdd/compiler-analyses](https://github.com/fossdd/compiler-analyses) - Mirrored from https://codeberg.org/fossdd/compiler-analyses (1 day ago)
+- [m-242/vitric](https://github.com/m-242/vitric) - A transparent irc library for VLang (1 day ago)
+- [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor. (3 days ago)
+- [tenacityteam/tenacity](https://github.com/tenacityteam/tenacity) - Tenacity is an easy-to-use, privacy-friendly, FLOSS, cross-platform multi-track audio editor/recorder for Windows, macOS, Linux and other operating systems. Contributions welcome! (3 days ago)
+- [audacity/audacity](https://github.com/audacity/audacity) - Audio Editor                                      (1 week ago)
 
 #### 🌱 My latest projects
 
-- [muesli/code-server](https://github.com/muesli/code-server) - My code-server Docker image
-- [muesli/deckmaster-emojis](https://github.com/muesli/deckmaster-emojis) - A deck of emojis for Deckmaster
-- [muesli/prism](https://github.com/muesli/prism) - An RTMP stream recaster / splitter
-- [muesli/saloon](https://github.com/muesli/saloon) - Saloon, an Arduino/ESP-based Information Monitor
-- [muesli/gitflux](https://github.com/muesli/gitflux) - Track your GitHub projects in InfluxDB and create beautiful graphs with Grafana
+- [fossdd/test2](https://github.com/fossdd/test2) - 
+- [fossdd/action-setup-pijul](https://github.com/fossdd/action-setup-pijul) - Set up your GitHub Actions workflow with Pijul
+- [fossdd/pijul](https://github.com/fossdd/pijul) - Latest version of pijul exported to GitHub
+- [fossdd/compiler-analyses](https://github.com/fossdd/compiler-analyses) - Mirrored from https://codeberg.org/fossdd/compiler-analyses
+- [fossdd/sh2v](https://github.com/fossdd/sh2v) - Translator from shell to V scripts - Mirror from https://codeberg.org/fossdd/sh2v
 
 #### 🔭 Latest releases I've contributed to
 
-- [JF002/InfiniTime](https://github.com/JF002/InfiniTime) ([1.3.0](https://github.com/JF002/InfiniTime/releases/tag/1.3.0), 2 days ago) - Firmware for Pinetime smartwatch written in C/C&#43;&#43; and based on FreeRTOS
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.173.2](https://github.com/goreleaser/goreleaser/releases/tag/v0.173.2), 2 weeks ago) - Deliver Go binaries as fast and easily as possible
-- [muesli/termenv](https://github.com/muesli/termenv) ([v0.9.0](https://github.com/muesli/termenv/releases/tag/v0.9.0), 1 month ago) - Advanced ANSI style &amp; color support for your terminal applications
-- [muesli/deckmaster](https://github.com/muesli/deckmaster) ([v0.5.1](https://github.com/muesli/deckmaster/releases/tag/v0.5.1), 1 month ago) - An application to control your Elgato Stream Deck on Linux
-- [muesli/streamdeck](https://github.com/muesli/streamdeck) ([v0.2.1](https://github.com/muesli/streamdeck/releases/tag/v0.2.1), 1 month ago) - An application and Go library to control your Elgato Stream Deck on Linux
+- [audacity/audacity](https://github.com/audacity/audacity) ([Audacity-3.0.3-RC3](https://github.com/audacity/audacity/releases/tag/Audacity-3.0.3-RC3), 3 days ago) - Audio Editor                                     
+- [cli/cli](https://github.com/cli/cli) ([v1.13.1](https://github.com/cli/cli/releases/tag/v1.13.1), 5 days ago) - GitHub’s official command line tool
+- [vlang/v](https://github.com/vlang/v) ([weekly.2021.29](https://github.com/vlang/v/releases/tag/weekly.2021.29), 6 days ago) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. https://vlang.io
+- [chriswalz/bit](https://github.com/chriswalz/bit) ([v1.1.2](https://github.com/chriswalz/bit/releases/tag/v1.1.2), 2 weeks ago) - Bit is a modern Git CLI
+- [UPC/ravada](https://github.com/UPC/ravada) ([v1.0.3](https://github.com/UPC/ravada/releases/tag/v1.0.3), 3 weeks ago) - Remote Virtual Desktops Manager
 
 #### 🔨 Latest Pull Requests I published
 
-- [Don&#39;t specify the linter version, as it&#39;s not required any longer](https://github.com/owncast/owncast/pull/1262) on [owncast/owncast](https://github.com/owncast/owncast) (today)
-- [Improve performance of retrieving chat history by avoiding double-sort](https://github.com/owncast/owncast/pull/1261) on [owncast/owncast](https://github.com/owncast/owncast) (today)
-- [Update linter config](https://github.com/charmbracelet/lipgloss/pull/39) on [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) (1 week ago)
-- [Split up workflows and add goreleaser action](https://github.com/charmbracelet/charm/pull/24) on [charmbracelet/charm](https://github.com/charmbracelet/charm) (1 week ago)
-- [Update linter config](https://github.com/charmbracelet/bubbles/pull/57) on [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) (1 week ago)
+- [Fix typos in README.md](https://github.com/m-242/vitric/pull/1) on [m-242/vitric](https://github.com/m-242/vitric) (1 day ago)
+- [Don&#39;t prevent Audacity from launching (and vice versa)](https://github.com/tenacityteam/tenacity/pull/366) on [tenacityteam/tenacity](https://github.com/tenacityteam/tenacity) (1 day ago)
+- [The item `fmt` was imported redundantly](https://github.com/helix-editor/helix/pull/486) on [helix-editor/helix](https://github.com/helix-editor/helix) (3 days ago)
+- [Add hiDPI support for Windows](https://github.com/tenacityteam/tenacity/pull/327) on [tenacityteam/tenacity](https://github.com/tenacityteam/tenacity) (4 days ago)
+- [Let the link to build from source also work on gitee and local copies.](https://github.com/ventoy/Ventoy/pull/1009) on [ventoy/Ventoy](https://github.com/ventoy/Ventoy) (6 days ago)
 
 #### 📜 My recent blog posts
 
@@ -52,11 +52,6 @@ of other projects. Curious what I've been hacking on recently?
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [ocelotsloth](https://github.com/ocelotsloth) (1 month ago)
-- [angristan](https://github.com/angristan) (1 month ago)
-- [sadikkuzu](https://github.com/sadikkuzu) (4 months ago)
-- [benleb](https://github.com/benleb) (9 months ago)
-- [hugomd](https://github.com/hugomd) (9 months ago)
 
 #### 💬 Feedback
 
