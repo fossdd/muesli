@@ -12,10 +12,10 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
+- [tenacityteam/tenacity](https://github.com/tenacityteam/tenacity) - Tenacity is an easy-to-use, privacy-friendly, FLOSS, cross-platform multi-track audio editor/recorder for Windows, macOS, Linux and other operating systems. Contributions welcome! (today)
 - [fossdd/compiler-analyses](https://github.com/fossdd/compiler-analyses) - Mirrored from https://codeberg.org/fossdd/compiler-analyses (1 day ago)
 - [m-242/vitric](https://github.com/m-242/vitric) - A transparent irc library for VLang (1 day ago)
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor. (3 days ago)
-- [tenacityteam/tenacity](https://github.com/tenacityteam/tenacity) - Tenacity is an easy-to-use, privacy-friendly, FLOSS, cross-platform multi-track audio editor/recorder for Windows, macOS, Linux and other operating systems. Contributions welcome! (3 days ago)
 - [audacity/audacity](https://github.com/audacity/audacity) - Audio Editor                                      (1 week ago)
 
 #### 🌱 My latest projects
