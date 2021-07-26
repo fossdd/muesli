@@ -12,11 +12,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [tenacityteam/tenacity](https://github.com/tenacityteam/tenacity) - Tenacity is an easy-to-use, privacy-friendly, FLOSS, cross-platform multi-track audio editor/recorder for Windows, macOS, Linux and other operating systems. Contributions welcome! (today)
-- [fossdd/compiler-analyses](https://github.com/fossdd/compiler-analyses) - Mirrored from https://codeberg.org/fossdd/compiler-analyses (1 day ago)
-- [m-242/vitric](https://github.com/m-242/vitric) - A transparent irc library for VLang (1 day ago)
-- [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor. (3 days ago)
-- [audacity/audacity](https://github.com/audacity/audacity) - Audio Editor                                      (1 week ago)
+- [fossdd/pijul](https://github.com/fossdd/pijul) - Latest version of pijul exported to GitHub (today)
+- [tenacityteam/tenacity](https://github.com/tenacityteam/tenacity) - Tenacity is an easy-to-use, privacy-friendly, FLOSS, cross-platform multi-track audio editor/recorder for Windows, macOS, Linux and other operating systems. Contributions welcome! (1 day ago)
+- [fossdd/compiler-analyses](https://github.com/fossdd/compiler-analyses) - Mirrored from https://codeberg.org/fossdd/compiler-analyses (2 days ago)
+- [m-242/vitric](https://github.com/m-242/vitric) - A transparent irc library for VLang (2 days ago)
+- [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor. (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -28,19 +28,19 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [audacity/audacity](https://github.com/audacity/audacity) ([Audacity-3.0.3-RC3](https://github.com/audacity/audacity/releases/tag/Audacity-3.0.3-RC3), 3 days ago) - Audio Editor                                     
-- [cli/cli](https://github.com/cli/cli) ([v1.13.1](https://github.com/cli/cli/releases/tag/v1.13.1), 5 days ago) - GitHub’s official command line tool
-- [vlang/v](https://github.com/vlang/v) ([weekly.2021.29](https://github.com/vlang/v/releases/tag/weekly.2021.29), 6 days ago) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. https://vlang.io
-- [chriswalz/bit](https://github.com/chriswalz/bit) ([v1.1.2](https://github.com/chriswalz/bit/releases/tag/v1.1.2), 2 weeks ago) - Bit is a modern Git CLI
+- [audacity/audacity](https://github.com/audacity/audacity) ([Audacity-3.0.3-RC3](https://github.com/audacity/audacity/releases/tag/Audacity-3.0.3-RC3), 4 days ago) - Audio Editor                                     
+- [cli/cli](https://github.com/cli/cli) ([v1.13.1](https://github.com/cli/cli/releases/tag/v1.13.1), 6 days ago) - GitHub’s official command line tool
+- [vlang/v](https://github.com/vlang/v) ([weekly.2021.29](https://github.com/vlang/v/releases/tag/weekly.2021.29), 1 week ago) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. https://vlang.io
+- [chriswalz/bit](https://github.com/chriswalz/bit) ([v1.1.2](https://github.com/chriswalz/bit/releases/tag/v1.1.2), 3 weeks ago) - Bit is a modern Git CLI
 - [UPC/ravada](https://github.com/UPC/ravada) ([v1.0.3](https://github.com/UPC/ravada/releases/tag/v1.0.3), 3 weeks ago) - Remote Virtual Desktops Manager
 
 #### 🔨 Latest Pull Requests I published
 
-- [Fix typos in README.md](https://github.com/m-242/vitric/pull/1) on [m-242/vitric](https://github.com/m-242/vitric) (1 day ago)
-- [Don&#39;t prevent Audacity from launching (and vice versa)](https://github.com/tenacityteam/tenacity/pull/366) on [tenacityteam/tenacity](https://github.com/tenacityteam/tenacity) (1 day ago)
-- [The item `fmt` was imported redundantly](https://github.com/helix-editor/helix/pull/486) on [helix-editor/helix](https://github.com/helix-editor/helix) (3 days ago)
-- [Add hiDPI support for Windows](https://github.com/tenacityteam/tenacity/pull/327) on [tenacityteam/tenacity](https://github.com/tenacityteam/tenacity) (4 days ago)
-- [Let the link to build from source also work on gitee and local copies.](https://github.com/ventoy/Ventoy/pull/1009) on [ventoy/Ventoy](https://github.com/ventoy/Ventoy) (6 days ago)
+- [Fix typos in README.md](https://github.com/m-242/vitric/pull/1) on [m-242/vitric](https://github.com/m-242/vitric) (2 days ago)
+- [Don&#39;t prevent Audacity from launching (and vice versa)](https://github.com/tenacityteam/tenacity/pull/366) on [tenacityteam/tenacity](https://github.com/tenacityteam/tenacity) (2 days ago)
+- [The item `fmt` was imported redundantly](https://github.com/helix-editor/helix/pull/486) on [helix-editor/helix](https://github.com/helix-editor/helix) (4 days ago)
+- [Add hiDPI support for Windows](https://github.com/tenacityteam/tenacity/pull/327) on [tenacityteam/tenacity](https://github.com/tenacityteam/tenacity) (5 days ago)
+- [Let the link to build from source also work on gitee and local copies.](https://github.com/ventoy/Ventoy/pull/1009) on [ventoy/Ventoy](https://github.com/ventoy/Ventoy) (1 week ago)
 
 #### 📜 My recent blog posts
 
