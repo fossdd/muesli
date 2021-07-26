@@ -36,11 +36,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔨 Latest Pull Requests I published
 
+- [Enhance index.html](https://github.com/Sosasees/tenacity-webpage/pull/1) on [Sosasees/tenacity-webpage](https://github.com/Sosasees/tenacity-webpage) (today)
 - [Remove notice by Apache License Authors](https://github.com/rust-random/rand/pull/1151) on [rust-random/rand](https://github.com/rust-random/rand) (today)
 - [Fix typos in README.md](https://github.com/m-242/vitric/pull/1) on [m-242/vitric](https://github.com/m-242/vitric) (2 days ago)
 - [Prevent Audacity and Tenacity from clashing](https://github.com/tenacityteam/tenacity/pull/366) on [tenacityteam/tenacity](https://github.com/tenacityteam/tenacity) (2 days ago)
 - [The item `fmt` was imported redundantly](https://github.com/helix-editor/helix/pull/486) on [helix-editor/helix](https://github.com/helix-editor/helix) (4 days ago)
-- [Add hiDPI support for Windows](https://github.com/tenacityteam/tenacity/pull/327) on [tenacityteam/tenacity](https://github.com/tenacityteam/tenacity) (5 days ago)
 
 #### 📜 My recent blog posts
 
