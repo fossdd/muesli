@@ -12,7 +12,7 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [fossdd/pijul](https://github.com/fossdd/pijul) - Latest version of pijul exported to GitHub (today)
+- [fossdd/pijul](https://github.com/fossdd/pijul) - Latest version of pijul mirrored to GitHub (today)
 - [tenacityteam/tenacity](https://github.com/tenacityteam/tenacity) - Tenacity is an easy-to-use, privacy-friendly, FLOSS, cross-platform multi-track audio editor/recorder for Windows, macOS, Linux and other operating systems. Contributions welcome! (1 day ago)
 - [fossdd/compiler-analyses](https://github.com/fossdd/compiler-analyses) - Mirrored from https://codeberg.org/fossdd/compiler-analyses (2 days ago)
 - [m-242/vitric](https://github.com/m-242/vitric) - A transparent irc library for VLang (2 days ago)
@@ -22,7 +22,7 @@ of other projects. Curious what I've been hacking on recently?
 
 - [fossdd/test2](https://github.com/fossdd/test2) - 
 - [fossdd/action-setup-pijul](https://github.com/fossdd/action-setup-pijul) - Set up your GitHub Actions workflow with Pijul
-- [fossdd/pijul](https://github.com/fossdd/pijul) - Latest version of pijul exported to GitHub
+- [fossdd/pijul](https://github.com/fossdd/pijul) - Latest version of pijul mirrored to GitHub
 - [fossdd/compiler-analyses](https://github.com/fossdd/compiler-analyses) - Mirrored from https://codeberg.org/fossdd/compiler-analyses
 - [fossdd/sh2v](https://github.com/fossdd/sh2v) - Translator from shell to V scripts - Mirror from https://codeberg.org/fossdd/sh2v
 
@@ -36,11 +36,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔨 Latest Pull Requests I published
 
+- [Remove notice by Apache License Authors](https://github.com/rust-random/rand/pull/1151) on [rust-random/rand](https://github.com/rust-random/rand) (today)
 - [Fix typos in README.md](https://github.com/m-242/vitric/pull/1) on [m-242/vitric](https://github.com/m-242/vitric) (2 days ago)
 - [Don&#39;t prevent Audacity from launching (and vice versa)](https://github.com/tenacityteam/tenacity/pull/366) on [tenacityteam/tenacity](https://github.com/tenacityteam/tenacity) (2 days ago)
 - [The item `fmt` was imported redundantly](https://github.com/helix-editor/helix/pull/486) on [helix-editor/helix](https://github.com/helix-editor/helix) (4 days ago)
 - [Add hiDPI support for Windows](https://github.com/tenacityteam/tenacity/pull/327) on [tenacityteam/tenacity](https://github.com/tenacityteam/tenacity) (5 days ago)
-- [Let the link to build from source also work on gitee and local copies.](https://github.com/ventoy/Ventoy/pull/1009) on [ventoy/Ventoy](https://github.com/ventoy/Ventoy) (1 week ago)
 
 #### 📜 My recent blog posts
 
