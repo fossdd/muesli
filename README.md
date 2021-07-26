@@ -28,7 +28,7 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [audacity/audacity](https://github.com/audacity/audacity) ([Audacity-3.0.3-RC3](https://github.com/audacity/audacity/releases/tag/Audacity-3.0.3-RC3), 4 days ago) - Audio Editor                                     
+- [audacity/audacity](https://github.com/audacity/audacity) ([Audacity-3.0.3](https://github.com/audacity/audacity/releases/tag/Audacity-3.0.3), today) - Audio Editor                                     
 - [cli/cli](https://github.com/cli/cli) ([v1.13.1](https://github.com/cli/cli/releases/tag/v1.13.1), 6 days ago) - GitHub’s official command line tool
 - [vlang/v](https://github.com/vlang/v) ([weekly.2021.29](https://github.com/vlang/v/releases/tag/weekly.2021.29), 1 week ago) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. https://vlang.io
 - [chriswalz/bit](https://github.com/chriswalz/bit) ([v1.1.2](https://github.com/chriswalz/bit/releases/tag/v1.1.2), 3 weeks ago) - Bit is a modern Git CLI
