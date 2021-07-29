@@ -12,11 +12,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [tenacityteam/tenacity](https://github.com/tenacityteam/tenacity) - Tenacity is an easy-to-use, privacy-friendly, FLOSS, cross-platform multi-track audio editor/recorder for Windows, macOS, Linux and other operating systems. Contributions welcome! (today)
-- [fossdd/pijul](https://github.com/fossdd/pijul) - Latest version of pijul mirrored to GitHub (2 days ago)
-- [fossdd/compiler-analyses](https://github.com/fossdd/compiler-analyses) - Mirrored from https://codeberg.org/fossdd/compiler-analyses (4 days ago)
-- [m-242/vitric](https://github.com/m-242/vitric) - A transparent irc library for VLang (4 days ago)
-- [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor. (6 days ago)
+- [fossdd/pijul](https://github.com/fossdd/pijul) - Latest version of pijul mirrored to GitHub (today)
+- [tenacityteam/tenacity](https://github.com/tenacityteam/tenacity) - Tenacity is an easy-to-use, privacy-friendly, FLOSS, cross-platform multi-track audio editor/recorder for Windows, macOS, Linux and other operating systems. Contributions welcome! (1 day ago)
+- [fossdd/compiler-analyses](https://github.com/fossdd/compiler-analyses) - Mirrored from https://codeberg.org/fossdd/compiler-analyses (5 days ago)
+- [m-242/vitric](https://github.com/m-242/vitric) - A transparent irc library for VLang (5 days ago)
+- [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor. (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -28,19 +28,19 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [vlang/v](https://github.com/vlang/v) ([weekly.2021.30](https://github.com/vlang/v/releases/tag/weekly.2021.30), 1 day ago) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. https://vlang.io
-- [audacity/audacity](https://github.com/audacity/audacity) ([Audacity-3.0.3](https://github.com/audacity/audacity/releases/tag/Audacity-3.0.3), 2 days ago) - Audio Editor                                     
+- [vlang/v](https://github.com/vlang/v) ([weekly.2021.30](https://github.com/vlang/v/releases/tag/weekly.2021.30), 2 days ago) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. https://vlang.io
+- [audacity/audacity](https://github.com/audacity/audacity) ([Audacity-3.0.3](https://github.com/audacity/audacity/releases/tag/Audacity-3.0.3), 3 days ago) - Audio Editor                                     
 - [cli/cli](https://github.com/cli/cli) ([v1.13.1](https://github.com/cli/cli/releases/tag/v1.13.1), 1 week ago) - GitHub’s official command line tool
 - [chriswalz/bit](https://github.com/chriswalz/bit) ([v1.1.2](https://github.com/chriswalz/bit/releases/tag/v1.1.2), 3 weeks ago) - Bit is a modern Git CLI
 - [UPC/ravada](https://github.com/UPC/ravada) ([v1.0.3](https://github.com/UPC/ravada/releases/tag/v1.0.3), 4 weeks ago) - Remote Virtual Desktops Manager
 
 #### 🔨 Latest Pull Requests I published
 
-- [Allow to reverse the unix timestamp back.](https://github.com/schoenenberg/unixtime/pull/4) on [schoenenberg/unixtime](https://github.com/schoenenberg/unixtime) (today)
-- [Enhance index.html](https://github.com/Sosasees/tenacity-webpage/pull/1) on [Sosasees/tenacity-webpage](https://github.com/Sosasees/tenacity-webpage) (2 days ago)
-- [Remove notice by Apache License Authors](https://github.com/rust-random/rand/pull/1151) on [rust-random/rand](https://github.com/rust-random/rand) (2 days ago)
-- [Fix typos in README.md](https://github.com/m-242/vitric/pull/1) on [m-242/vitric](https://github.com/m-242/vitric) (4 days ago)
-- [Prevent Audacity and Tenacity from clashing](https://github.com/tenacityteam/tenacity/pull/366) on [tenacityteam/tenacity](https://github.com/tenacityteam/tenacity) (4 days ago)
+- [Allow to reverse the unix timestamp back.](https://github.com/schoenenberg/unixtime/pull/4) on [schoenenberg/unixtime](https://github.com/schoenenberg/unixtime) (1 day ago)
+- [Enhance index.html](https://github.com/Sosasees/tenacity-webpage/pull/1) on [Sosasees/tenacity-webpage](https://github.com/Sosasees/tenacity-webpage) (3 days ago)
+- [Remove notice by Apache License Authors](https://github.com/rust-random/rand/pull/1151) on [rust-random/rand](https://github.com/rust-random/rand) (3 days ago)
+- [Fix typos in README.md](https://github.com/m-242/vitric/pull/1) on [m-242/vitric](https://github.com/m-242/vitric) (5 days ago)
+- [Prevent Audacity and Tenacity from clashing](https://github.com/tenacityteam/tenacity/pull/366) on [tenacityteam/tenacity](https://github.com/tenacityteam/tenacity) (5 days ago)
 
 #### 📜 My recent blog posts
 
