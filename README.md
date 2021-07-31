@@ -12,11 +12,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
+- [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution. (today)
+- [fossdd/compiler-analyses](https://github.com/fossdd/compiler-analyses) - Mirrored from https://codeberg.org/fossdd/compiler-analyses (today)
 - [tenacityteam/tenacity](https://github.com/tenacityteam/tenacity) - Tenacity is an easy-to-use, privacy-friendly, FLOSS, cross-platform multi-track audio editor/recorder for Windows, macOS, Linux and other operating systems. Contributions welcome! (2 days ago)
 - [fossdd/pijul](https://github.com/fossdd/pijul) - Latest version of pijul mirrored to GitHub (2 days ago)
-- [fossdd/compiler-analyses](https://github.com/fossdd/compiler-analyses) - Mirrored from https://codeberg.org/fossdd/compiler-analyses (1 week ago)
 - [m-242/vitric](https://github.com/m-242/vitric) - A transparent irc library for VLang (1 week ago)
-- [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor. (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -32,7 +32,7 @@ of other projects. Curious what I've been hacking on recently?
 - [vlang/v](https://github.com/vlang/v) ([weekly.2021.30](https://github.com/vlang/v/releases/tag/weekly.2021.30), 4 days ago) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. https://vlang.io
 - [audacity/audacity](https://github.com/audacity/audacity) ([Audacity-3.0.3](https://github.com/audacity/audacity/releases/tag/Audacity-3.0.3), 5 days ago) - Audio Editor                                     
 - [cli/cli](https://github.com/cli/cli) ([v1.13.1](https://github.com/cli/cli/releases/tag/v1.13.1), 1 week ago) - GitHub’s official command line tool
-- [chriswalz/bit](https://github.com/chriswalz/bit) ([v1.1.2](https://github.com/chriswalz/bit/releases/tag/v1.1.2), 3 weeks ago) - Bit is a modern Git CLI
+- [ventoy/Ventoy](https://github.com/ventoy/Ventoy) ([v1.0.47](https://github.com/ventoy/Ventoy/releases/tag/v1.0.47), 2 weeks ago) - A new bootable USB solution.
 
 #### 🔨 Latest Pull Requests I published
 
