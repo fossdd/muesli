@@ -12,10 +12,10 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution. (today)
-- [fossdd/compiler-analyses](https://github.com/fossdd/compiler-analyses) - Mirrored from https://codeberg.org/fossdd/compiler-analyses (today)
-- [tenacityteam/tenacity](https://github.com/tenacityteam/tenacity) - Tenacity is an easy-to-use, privacy-friendly, FLOSS, cross-platform multi-track audio editor/recorder for Windows, macOS, Linux and other operating systems. Contributions welcome! (2 days ago)
-- [fossdd/pijul](https://github.com/fossdd/pijul) - Latest version of pijul mirrored to GitHub (2 days ago)
+- [fossdd/pijul](https://github.com/fossdd/pijul) - Latest version of pijul mirrored to GitHub (today)
+- [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution. (1 day ago)
+- [fossdd/compiler-analyses](https://github.com/fossdd/compiler-analyses) - Mirrored from https://codeberg.org/fossdd/compiler-analyses (1 day ago)
+- [tenacityteam/tenacity](https://github.com/tenacityteam/tenacity) - Tenacity is an easy-to-use, privacy-friendly, FLOSS, cross-platform multi-track audio editor/recorder for Windows, macOS, Linux and other operating systems. Contributions welcome! (3 days ago)
 - [m-242/vitric](https://github.com/m-242/vitric) - A transparent irc library for VLang (1 week ago)
 
 #### 🌱 My latest projects
@@ -28,17 +28,17 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [markusfisch/BinaryEye](https://github.com/markusfisch/BinaryEye) ([1.44.1](https://github.com/markusfisch/BinaryEye/releases/tag/1.44.1), 2 days ago) - Yet another barcode scanner for Android
-- [vlang/v](https://github.com/vlang/v) ([weekly.2021.30](https://github.com/vlang/v/releases/tag/weekly.2021.30), 4 days ago) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. https://vlang.io
-- [audacity/audacity](https://github.com/audacity/audacity) ([Audacity-3.0.3](https://github.com/audacity/audacity/releases/tag/Audacity-3.0.3), 5 days ago) - Audio Editor                                     
+- [markusfisch/BinaryEye](https://github.com/markusfisch/BinaryEye) ([1.44.1](https://github.com/markusfisch/BinaryEye/releases/tag/1.44.1), 3 days ago) - Yet another barcode scanner for Android
+- [vlang/v](https://github.com/vlang/v) ([weekly.2021.30](https://github.com/vlang/v/releases/tag/weekly.2021.30), 5 days ago) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. https://vlang.io
+- [audacity/audacity](https://github.com/audacity/audacity) ([Audacity-3.0.3](https://github.com/audacity/audacity/releases/tag/Audacity-3.0.3), 6 days ago) - Audio Editor                                     
 - [cli/cli](https://github.com/cli/cli) ([v1.13.1](https://github.com/cli/cli/releases/tag/v1.13.1), 1 week ago) - GitHub’s official command line tool
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) ([v1.0.47](https://github.com/ventoy/Ventoy/releases/tag/v1.0.47), 2 weeks ago) - A new bootable USB solution.
 
 #### 🔨 Latest Pull Requests I published
 
-- [Allow to reverse the unix timestamp back.](https://github.com/schoenenberg/unixtime/pull/4) on [schoenenberg/unixtime](https://github.com/schoenenberg/unixtime) (3 days ago)
-- [Enhance index.html](https://github.com/Sosasees/tenacity-webpage/pull/1) on [Sosasees/tenacity-webpage](https://github.com/Sosasees/tenacity-webpage) (5 days ago)
-- [Remove notice by Apache License Authors](https://github.com/rust-random/rand/pull/1151) on [rust-random/rand](https://github.com/rust-random/rand) (5 days ago)
+- [Allow to reverse the unix timestamp back.](https://github.com/schoenenberg/unixtime/pull/4) on [schoenenberg/unixtime](https://github.com/schoenenberg/unixtime) (4 days ago)
+- [Enhance index.html](https://github.com/Sosasees/tenacity-webpage/pull/1) on [Sosasees/tenacity-webpage](https://github.com/Sosasees/tenacity-webpage) (6 days ago)
+- [Remove notice by Apache License Authors](https://github.com/rust-random/rand/pull/1151) on [rust-random/rand](https://github.com/rust-random/rand) (6 days ago)
 - [Fix typos in README.md](https://github.com/m-242/vitric/pull/1) on [m-242/vitric](https://github.com/m-242/vitric) (1 week ago)
 - [Prevent Audacity and Tenacity from clashing](https://github.com/tenacityteam/tenacity/pull/366) on [tenacityteam/tenacity](https://github.com/tenacityteam/tenacity) (1 week ago)
 
