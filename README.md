@@ -28,11 +28,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
+- [ventoy/Ventoy](https://github.com/ventoy/Ventoy) ([v1.0.48](https://github.com/ventoy/Ventoy/releases/tag/v1.0.48), today) - A new bootable USB solution.
 - [markusfisch/BinaryEye](https://github.com/markusfisch/BinaryEye) ([1.44.1](https://github.com/markusfisch/BinaryEye/releases/tag/1.44.1), 3 days ago) - Yet another barcode scanner for Android
 - [vlang/v](https://github.com/vlang/v) ([weekly.2021.30](https://github.com/vlang/v/releases/tag/weekly.2021.30), 5 days ago) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. https://vlang.io
 - [audacity/audacity](https://github.com/audacity/audacity) ([Audacity-3.0.3](https://github.com/audacity/audacity/releases/tag/Audacity-3.0.3), 6 days ago) - Audio Editor                                     
 - [cli/cli](https://github.com/cli/cli) ([v1.13.1](https://github.com/cli/cli/releases/tag/v1.13.1), 1 week ago) - GitHub’s official command line tool
-- [ventoy/Ventoy](https://github.com/ventoy/Ventoy) ([v1.0.47](https://github.com/ventoy/Ventoy/releases/tag/v1.0.47), 2 weeks ago) - A new bootable USB solution.
 
 #### 🔨 Latest Pull Requests I published
 
