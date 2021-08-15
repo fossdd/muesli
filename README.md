@@ -12,7 +12,7 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [fossdd/compiler-analyses](https://github.com/fossdd/compiler-analyses) - Mirrored from https://codeberg.org/fossdd/compiler-analyses (today)
+- [fossdd/compiler-analyses](https://github.com/fossdd/compiler-analyses) - Mirrored from https://codeberg.org/fossdd/compiler-analyses (1 day ago)
 - [fossdd/pijul](https://github.com/fossdd/pijul) - Latest version of pijul mirrored to GitHub (1 week ago)
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution. (2 weeks ago)
 - [tenacityteam/tenacity](https://github.com/tenacityteam/tenacity) - Tenacity is an easy-to-use, privacy-friendly, FLOSS, cross-platform multi-track audio editor/recorder for Windows, macOS, Linux and other operating systems. Contributions welcome! (2 weeks ago)
@@ -28,8 +28,8 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [ventoy/Ventoy](https://github.com/ventoy/Ventoy) ([v1.0.50](https://github.com/ventoy/Ventoy/releases/tag/v1.0.50), today) - A new bootable USB solution.
-- [helix-editor/helix](https://github.com/helix-editor/helix) ([v0.4.1](https://github.com/helix-editor/helix/releases/tag/v0.4.1), today) - A post-modern modal text editor.
+- [ventoy/Ventoy](https://github.com/ventoy/Ventoy) ([v1.0.50](https://github.com/ventoy/Ventoy/releases/tag/v1.0.50), 1 day ago) - A new bootable USB solution.
+- [helix-editor/helix](https://github.com/helix-editor/helix) ([v0.4.1](https://github.com/helix-editor/helix/releases/tag/v0.4.1), 1 day ago) - A post-modern modal text editor.
 - [cli/cli](https://github.com/cli/cli) ([v1.14.0](https://github.com/cli/cli/releases/tag/v1.14.0), 1 week ago) - GitHub’s official command line tool
 - [vlang/v](https://github.com/vlang/v) ([weekly.2021.31](https://github.com/vlang/v/releases/tag/weekly.2021.31), 1 week ago) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. https://vlang.io
 - [markusfisch/BinaryEye](https://github.com/markusfisch/BinaryEye) ([1.44.1](https://github.com/markusfisch/BinaryEye/releases/tag/1.44.1), 2 weeks ago) - Yet another barcode scanner for Android
