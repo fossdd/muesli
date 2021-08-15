@@ -36,11 +36,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔨 Latest Pull Requests I published
 
+- [Fix username Label](https://github.com/ATLauncher/ATLauncher/pull/500) on [ATLauncher/ATLauncher](https://github.com/ATLauncher/ATLauncher) (today)
 - [Allow to reverse the unix timestamp back.](https://github.com/schoenenberg/unixtime/pull/4) on [schoenenberg/unixtime](https://github.com/schoenenberg/unixtime) (2 weeks ago)
 - [Enhance index.html](https://github.com/Sosasees/tenacity-webpage/pull/1) on [Sosasees/tenacity-webpage](https://github.com/Sosasees/tenacity-webpage) (2 weeks ago)
 - [Remove notice by Apache License Authors](https://github.com/rust-random/rand/pull/1151) on [rust-random/rand](https://github.com/rust-random/rand) (2 weeks ago)
 - [Fix typos in README.md](https://github.com/m-242/vitric/pull/1) on [m-242/vitric](https://github.com/m-242/vitric) (3 weeks ago)
-- [Prevent Audacity and Tenacity from clashing](https://github.com/tenacityteam/tenacity/pull/366) on [tenacityteam/tenacity](https://github.com/tenacityteam/tenacity) (3 weeks ago)
 
 #### 📜 My recent blog posts
 
