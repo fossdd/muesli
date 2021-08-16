@@ -28,10 +28,10 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
+- [vlang/v](https://github.com/vlang/v) ([weekly.2021.33.2](https://github.com/vlang/v/releases/tag/weekly.2021.33.2), today) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. https://vlang.io
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) ([v1.0.50](https://github.com/ventoy/Ventoy/releases/tag/v1.0.50), 2 days ago) - A new bootable USB solution.
 - [helix-editor/helix](https://github.com/helix-editor/helix) ([v0.4.1](https://github.com/helix-editor/helix/releases/tag/v0.4.1), 2 days ago) - A post-modern modal text editor.
 - [cli/cli](https://github.com/cli/cli) ([v1.14.0](https://github.com/cli/cli/releases/tag/v1.14.0), 1 week ago) - GitHub’s official command line tool
-- [vlang/v](https://github.com/vlang/v) ([weekly.2021.31](https://github.com/vlang/v/releases/tag/weekly.2021.31), 2 weeks ago) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. https://vlang.io
 - [markusfisch/BinaryEye](https://github.com/markusfisch/BinaryEye) ([1.44.1](https://github.com/markusfisch/BinaryEye/releases/tag/1.44.1), 2 weeks ago) - Yet another barcode scanner for Android
 
 #### 🔨 Latest Pull Requests I published
