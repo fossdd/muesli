@@ -16,7 +16,7 @@ of other projects. Curious what I've been hacking on recently?
 - [fossdd/pijul](https://github.com/fossdd/pijul) - Latest version of pijul mirrored to GitHub (3 days ago)
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution. (3 weeks ago)
 - [tenacityteam/tenacity](https://github.com/tenacityteam/tenacity) - Tenacity is an easy-to-use, privacy-friendly, FLOSS, cross-platform multi-track audio editor/recorder for Windows, macOS, Linux and other operating systems. Contributions welcome! (3 weeks ago)
-- [m-242/vitric](https://github.com/m-242/vitric) - A transparent irc library for VLang (1 month ago)
+- [rust-random/rand](https://github.com/rust-random/rand) - A Rust library for random number generation. (4 weeks ago)
 
 #### 🌱 My latest projects
 
