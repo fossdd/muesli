@@ -28,11 +28,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
+- [cli/cli](https://github.com/cli/cli) ([v2.0.0](https://github.com/cli/cli/releases/tag/v2.0.0), today) - GitHub’s official command line tool
+- [audacity/audacity](https://github.com/audacity/audacity) ([Audacity-3.0.4](https://github.com/audacity/audacity/releases/tag/Audacity-3.0.4), today) - Audio Editor                                     
 - [jenkinsci/docker-agent](https://github.com/jenkinsci/docker-agent) ([4.10-1](https://github.com/jenkinsci/docker-agent/releases/tag/4.10-1), today) - Base Docker image for Jenkins Agents
 - [vlang/v](https://github.com/vlang/v) ([weekly.2021.33.2](https://github.com/vlang/v/releases/tag/weekly.2021.33.2), 1 week ago) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. https://vlang.io
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) ([v1.0.50](https://github.com/ventoy/Ventoy/releases/tag/v1.0.50), 1 week ago) - A new bootable USB solution.
-- [helix-editor/helix](https://github.com/helix-editor/helix) ([v0.4.1](https://github.com/helix-editor/helix/releases/tag/v0.4.1), 1 week ago) - A post-modern modal text editor.
-- [cli/cli](https://github.com/cli/cli) ([v1.14.0](https://github.com/cli/cli/releases/tag/v1.14.0), 2 weeks ago) - GitHub’s official command line tool
 
 #### 🔨 Latest Pull Requests I published
 
