@@ -28,7 +28,7 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [jenkinsci/docker-agent](https://github.com/jenkinsci/docker-agent) ([4.10-1](https://github.com/jenkinsci/docker-agent/releases/tag/4.10-1), 1 day ago) - Base Docker image for Jenkins Agents
+- [jenkinsci/docker-agent](https://github.com/jenkinsci/docker-agent) ([4.10-2](https://github.com/jenkinsci/docker-agent/releases/tag/4.10-2), today) - Base Docker image for Jenkins Agents
 - [cli/cli](https://github.com/cli/cli) ([v2.0.0](https://github.com/cli/cli/releases/tag/v2.0.0), 2 days ago) - GitHub’s official command line tool
 - [audacity/audacity](https://github.com/audacity/audacity) ([Audacity-3.0.4](https://github.com/audacity/audacity/releases/tag/Audacity-3.0.4), 2 days ago) - Audio Editor                                     
 - [vlang/v](https://github.com/vlang/v) ([weekly.2021.33.2](https://github.com/vlang/v/releases/tag/weekly.2021.33.2), 1 week ago) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. https://vlang.io
