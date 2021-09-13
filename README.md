@@ -28,10 +28,10 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
+- [ventoy/Ventoy](https://github.com/ventoy/Ventoy) ([v1.0.52](https://github.com/ventoy/Ventoy/releases/tag/v1.0.52), today) - A new bootable USB solution.
 - [UPC/ravada](https://github.com/UPC/ravada) ([v1.0.4](https://github.com/UPC/ravada/releases/tag/v1.0.4), 4 days ago) - Remote Virtual Desktops Manager
 - [vlang/v](https://github.com/vlang/v) ([weekly.2021.36](https://github.com/vlang/v/releases/tag/weekly.2021.36), 6 days ago) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. https://vlang.io
 - [jenkinsci/docker-agent](https://github.com/jenkinsci/docker-agent) ([4.10-4](https://github.com/jenkinsci/docker-agent/releases/tag/4.10-4), 1 week ago) - Base Docker image for Jenkins Agents
-- [ventoy/Ventoy](https://github.com/ventoy/Ventoy) ([v1.0.51](https://github.com/ventoy/Ventoy/releases/tag/v1.0.51), 2 weeks ago) - A new bootable USB solution.
 - [cli/cli](https://github.com/cli/cli) ([v2.0.0](https://github.com/cli/cli/releases/tag/v2.0.0), 2 weeks ago) - GitHub’s official command line tool
 
 #### 🔨 Latest Pull Requests I published
