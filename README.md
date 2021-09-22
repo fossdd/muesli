@@ -12,8 +12,8 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [fossdd/compiler-analyses](https://github.com/fossdd/compiler-analyses) - Mirrored from https://codeberg.org/fossdd/compiler-analyses (3 days ago)
-- [fossdd/pijul](https://github.com/fossdd/pijul) - Latest version of pijul mirrored to GitHub (5 days ago)
+- [fossdd/compiler-analyses](https://github.com/fossdd/compiler-analyses) - Mirrored from https://codeberg.org/fossdd/compiler-analyses (4 days ago)
+- [fossdd/pijul](https://github.com/fossdd/pijul) - Latest version of pijul mirrored to GitHub (6 days ago)
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution. (1 month ago)
 - [tenacityteam/tenacity](https://github.com/tenacityteam/tenacity) - Tenacity is an easy-to-use, privacy-friendly, FLOSS, cross-platform multi-track audio editor/recorder for Windows, macOS, Linux and other operating systems. Contributions welcome! (1 month ago)
 - [rust-random/rand](https://github.com/rust-random/rand) - A Rust library for random number generation. (1 month ago)
@@ -28,8 +28,8 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [vlang/v](https://github.com/vlang/v) ([weekly.2021.38](https://github.com/vlang/v/releases/tag/weekly.2021.38), today) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. https://vlang.io
-- [UPC/ravada](https://github.com/UPC/ravada) ([v1.0.5](https://github.com/UPC/ravada/releases/tag/v1.0.5), 5 days ago) - Remote Virtual Desktops Manager
+- [vlang/v](https://github.com/vlang/v) ([weekly.2021.38](https://github.com/vlang/v/releases/tag/weekly.2021.38), 1 day ago) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. https://vlang.io
+- [UPC/ravada](https://github.com/UPC/ravada) ([v1.0.5](https://github.com/UPC/ravada/releases/tag/v1.0.5), 6 days ago) - Remote Virtual Desktops Manager
 - [jenkinsci/docker-agent](https://github.com/jenkinsci/docker-agent) ([4.10-5](https://github.com/jenkinsci/docker-agent/releases/tag/4.10-5), 1 week ago) - Base Docker image for Jenkins Agents
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) ([v1.0.52](https://github.com/ventoy/Ventoy/releases/tag/v1.0.52), 1 week ago) - A new bootable USB solution.
 - [cli/cli](https://github.com/cli/cli) ([v2.0.0](https://github.com/cli/cli/releases/tag/v2.0.0), 4 weeks ago) - GitHub’s official command line tool
@@ -40,7 +40,7 @@ of other projects. Curious what I've been hacking on recently?
 - [Allow to reverse the unix timestamp back.](https://github.com/schoenenberg/unixtime/pull/4) on [schoenenberg/unixtime](https://github.com/schoenenberg/unixtime) (1 month ago)
 - [Enhance index.html](https://github.com/Sosasees/tenacity-webpage/pull/1) on [Sosasees/tenacity-webpage](https://github.com/Sosasees/tenacity-webpage) (1 month ago)
 - [Remove notice by Apache License Authors](https://github.com/rust-random/rand/pull/1151) on [rust-random/rand](https://github.com/rust-random/rand) (1 month ago)
-- [Fix typos in README.md](https://github.com/m-242/vitric/pull/1) on [m-242/vitric](https://github.com/m-242/vitric) (1 month ago)
+- [Fix typos in README.md](https://github.com/m-242/vitric/pull/1) on [m-242/vitric](https://github.com/m-242/vitric) (2 months ago)
 
 #### 📜 My recent blog posts
 
