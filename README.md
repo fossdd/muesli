@@ -12,10 +12,10 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [fossdd/compiler-analyses](https://github.com/fossdd/compiler-analyses) - Mirrored from https://codeberg.org/fossdd/compiler-analyses (1 day ago)
-- [fossdd/pijul](https://github.com/fossdd/pijul) - Latest version of pijul mirrored to GitHub (3 days ago)
+- [fossdd/compiler-analyses](https://github.com/fossdd/compiler-analyses) - Mirrored from https://codeberg.org/fossdd/compiler-analyses (2 days ago)
+- [fossdd/pijul](https://github.com/fossdd/pijul) - Latest version of pijul mirrored to GitHub (4 days ago)
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution. (1 month ago)
-- [tenacityteam/tenacity](https://github.com/tenacityteam/tenacity) - Tenacity is an easy-to-use, privacy-friendly, FLOSS, cross-platform multi-track audio editor/recorder for Windows, macOS, Linux and other operating systems. Contributions welcome! (1 month ago)
+- [tenacityteam/tenacity](https://github.com/tenacityteam/tenacity) - Tenacity is an easy-to-use, privacy-friendly, FLOSS, cross-platform multi-track audio editor/recorder for Windows, macOS, Linux and other operating systems. Contributions welcome! (2 months ago)
 - [rust-random/rand](https://github.com/rust-random/rand) - A Rust library for random number generation. (2 months ago)
 
 #### 🌱 My latest projects
@@ -28,10 +28,10 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [jenkinsci/docker-agent](https://github.com/jenkinsci/docker-agent) ([4.10-6](https://github.com/jenkinsci/docker-agent/releases/tag/4.10-6), today) - Base Docker image for Jenkins Agents
-- [vlang/v](https://github.com/vlang/v) ([weekly.2021.38](https://github.com/vlang/v/releases/tag/weekly.2021.38), 5 days ago) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. https://vlang.io
+- [vlang/v](https://github.com/vlang/v) ([weekly.2021.39](https://github.com/vlang/v/releases/tag/weekly.2021.39), 1 day ago) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. https://vlang.io
+- [jenkinsci/docker-agent](https://github.com/jenkinsci/docker-agent) ([4.10-6](https://github.com/jenkinsci/docker-agent/releases/tag/4.10-6), 1 day ago) - Base Docker image for Jenkins Agents
 - [UPC/ravada](https://github.com/UPC/ravada) ([v1.0.5](https://github.com/UPC/ravada/releases/tag/v1.0.5), 1 week ago) - Remote Virtual Desktops Manager
-- [ventoy/Ventoy](https://github.com/ventoy/Ventoy) ([v1.0.52](https://github.com/ventoy/Ventoy/releases/tag/v1.0.52), 1 week ago) - A new bootable USB solution.
+- [ventoy/Ventoy](https://github.com/ventoy/Ventoy) ([v1.0.52](https://github.com/ventoy/Ventoy/releases/tag/v1.0.52), 2 weeks ago) - A new bootable USB solution.
 - [cli/cli](https://github.com/cli/cli) ([v2.0.0](https://github.com/cli/cli/releases/tag/v2.0.0), 1 month ago) - GitHub’s official command line tool
 
 #### 🔨 Latest Pull Requests I published
