@@ -28,11 +28,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
+- [audacity/audacity](https://github.com/audacity/audacity) ([Audacity-3.0.5](https://github.com/audacity/audacity/releases/tag/Audacity-3.0.5), today) - Audio Editor                                     
 - [UPC/ravada](https://github.com/UPC/ravada) ([v1.1.0](https://github.com/UPC/ravada/releases/tag/v1.1.0), today) - Remote Virtual Desktops Manager
 - [vlang/v](https://github.com/vlang/v) ([weekly.2021.39.1](https://github.com/vlang/v/releases/tag/weekly.2021.39.1), today) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. https://vlang.io
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) ([v1.0.53](https://github.com/ventoy/Ventoy/releases/tag/v1.0.53), 2 days ago) - A new bootable USB solution.
 - [jenkinsci/docker-agent](https://github.com/jenkinsci/docker-agent) ([4.10-6](https://github.com/jenkinsci/docker-agent/releases/tag/4.10-6), 3 days ago) - Base Docker image for Jenkins Agents
-- [cli/cli](https://github.com/cli/cli) ([v2.0.0](https://github.com/cli/cli/releases/tag/v2.0.0), 1 month ago) - GitHub’s official command line tool
 
 #### 🔨 Latest Pull Requests I published
 
