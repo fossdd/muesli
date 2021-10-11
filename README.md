@@ -12,7 +12,7 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [fossdd/compiler-analyses](https://github.com/fossdd/compiler-analyses) - Mirrored from https://codeberg.org/fossdd/compiler-analyses (1 day ago)
+- [fossdd/compiler-analyses](https://github.com/fossdd/compiler-analyses) - Mirrored from https://codeberg.org/fossdd/compiler-analyses (2 days ago)
 - [fossdd/pijul](https://github.com/fossdd/pijul) - Latest version of pijul mirrored to GitHub (2 weeks ago)
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution. (2 months ago)
 - [tenacityteam/tenacity](https://github.com/tenacityteam/tenacity) - Tenacity is an easy-to-use, privacy-friendly, FLOSS, cross-platform multi-track audio editor/recorder for Windows, macOS, Linux and other operating systems. Contributions welcome! (2 months ago)
@@ -32,7 +32,7 @@ of other projects. Curious what I've been hacking on recently?
 - [audacity/audacity](https://github.com/audacity/audacity) ([Audacity-3.0.5](https://github.com/audacity/audacity/releases/tag/Audacity-3.0.5), 1 week ago) - Audio Editor                                     
 - [UPC/ravada](https://github.com/UPC/ravada) ([v1.1.0](https://github.com/UPC/ravada/releases/tag/v1.1.0), 1 week ago) - Remote Virtual Desktops Manager
 - [vlang/v](https://github.com/vlang/v) ([weekly.2021.39.1](https://github.com/vlang/v/releases/tag/weekly.2021.39.1), 1 week ago) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. https://vlang.io
-- [ventoy/Ventoy](https://github.com/ventoy/Ventoy) ([v1.0.53](https://github.com/ventoy/Ventoy/releases/tag/v1.0.53), 1 week ago) - A new bootable USB solution.
+- [ventoy/Ventoy](https://github.com/ventoy/Ventoy) ([v1.0.53](https://github.com/ventoy/Ventoy/releases/tag/v1.0.53), 2 weeks ago) - A new bootable USB solution.
 
 #### 🔨 Latest Pull Requests I published
 
