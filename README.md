@@ -12,7 +12,7 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [fossdd/compiler-analyses](https://github.com/fossdd/compiler-analyses) - Mirrored from https://codeberg.org/fossdd/compiler-analyses (2 days ago)
+- [fossdd/compiler-analyses](https://github.com/fossdd/compiler-analyses) - Mirrored from https://codeberg.org/fossdd/compiler-analyses (3 days ago)
 - [fossdd/pijul](https://github.com/fossdd/pijul) - Latest version of pijul mirrored to GitHub (2 weeks ago)
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution. (2 months ago)
 - [tenacityteam/tenacity](https://github.com/tenacityteam/tenacity) - Tenacity is an easy-to-use, privacy-friendly, FLOSS, cross-platform multi-track audio editor/recorder for Windows, macOS, Linux and other operating systems. Contributions welcome! (2 months ago)
@@ -28,7 +28,7 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [vlang/v](https://github.com/vlang/v) ([weekly.2021.41](https://github.com/vlang/v/releases/tag/weekly.2021.41), today) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. https://vlang.io
+- [vlang/v](https://github.com/vlang/v) ([weekly.2021.41](https://github.com/vlang/v/releases/tag/weekly.2021.41), 1 day ago) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. https://vlang.io
 - [markusfisch/BinaryEye](https://github.com/markusfisch/BinaryEye) ([1.45.0](https://github.com/markusfisch/BinaryEye/releases/tag/1.45.0), 1 week ago) - Yet another barcode scanner for Android
 - [audacity/audacity](https://github.com/audacity/audacity) ([Audacity-3.0.5](https://github.com/audacity/audacity/releases/tag/Audacity-3.0.5), 1 week ago) - Audio Editor                                     
 - [UPC/ravada](https://github.com/UPC/ravada) ([v1.1.0](https://github.com/UPC/ravada/releases/tag/v1.1.0), 1 week ago) - Remote Virtual Desktops Manager
