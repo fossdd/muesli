@@ -28,7 +28,7 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [cli/cli](https://github.com/cli/cli) ([v2.1.0-pre.0](https://github.com/cli/cli/releases/tag/v2.1.0-pre.0), today) - GitHub’s official command line tool
+- [cli/cli](https://github.com/cli/cli) ([v2.1.0](https://github.com/cli/cli/releases/tag/v2.1.0), today) - GitHub’s official command line tool
 - [audacity/audacity](https://github.com/audacity/audacity) ([Audacity-3.1.0-beta-1](https://github.com/audacity/audacity/releases/tag/Audacity-3.1.0-beta-1), today) - Audio Editor                                     
 - [jenkinsci/docker-agent](https://github.com/jenkinsci/docker-agent) ([4.10-7](https://github.com/jenkinsci/docker-agent/releases/tag/4.10-7), 1 day ago) - Base Docker image for Jenkins Agents
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) ([v1.0.54](https://github.com/ventoy/Ventoy/releases/tag/v1.0.54), 2 days ago) - A new bootable USB solution.
