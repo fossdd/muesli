@@ -12,8 +12,8 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [fossdd/pijul](https://github.com/fossdd/pijul) - Latest version of pijul mirrored to GitHub (1 day ago)
-- [fossdd/compiler-analyses](https://github.com/fossdd/compiler-analyses) - Mirrored from https://codeberg.org/fossdd/compiler-analyses (5 days ago)
+- [fossdd/pijul](https://github.com/fossdd/pijul) - Latest version of pijul mirrored to GitHub (2 days ago)
+- [fossdd/compiler-analyses](https://github.com/fossdd/compiler-analyses) - Mirrored from https://codeberg.org/fossdd/compiler-analyses (6 days ago)
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution. (2 months ago)
 - [tenacityteam/tenacity](https://github.com/tenacityteam/tenacity) - Tenacity is an easy-to-use, privacy-friendly, FLOSS, cross-platform multi-track audio editor/recorder for Windows, macOS, Linux and other operating systems. Contributions welcome! (2 months ago)
 - [rust-random/rand](https://github.com/rust-random/rand) - A Rust library for random number generation. (2 months ago)
@@ -28,11 +28,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [cli/cli](https://github.com/cli/cli) ([v2.1.0](https://github.com/cli/cli/releases/tag/v2.1.0), today) - GitHub’s official command line tool
-- [audacity/audacity](https://github.com/audacity/audacity) ([Audacity-3.1.0-beta-1](https://github.com/audacity/audacity/releases/tag/Audacity-3.1.0-beta-1), today) - Audio Editor                                     
-- [jenkinsci/docker-agent](https://github.com/jenkinsci/docker-agent) ([4.10-7](https://github.com/jenkinsci/docker-agent/releases/tag/4.10-7), 1 day ago) - Base Docker image for Jenkins Agents
-- [ventoy/Ventoy](https://github.com/ventoy/Ventoy) ([v1.0.54](https://github.com/ventoy/Ventoy/releases/tag/v1.0.54), 2 days ago) - A new bootable USB solution.
-- [vlang/v](https://github.com/vlang/v) ([weekly.2021.41](https://github.com/vlang/v/releases/tag/weekly.2021.41), 3 days ago) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. https://vlang.io
+- [cli/cli](https://github.com/cli/cli) ([v2.1.0](https://github.com/cli/cli/releases/tag/v2.1.0), 1 day ago) - GitHub’s official command line tool
+- [audacity/audacity](https://github.com/audacity/audacity) ([Audacity-3.1.0-beta-1](https://github.com/audacity/audacity/releases/tag/Audacity-3.1.0-beta-1), 1 day ago) - Audio Editor                                     
+- [jenkinsci/docker-agent](https://github.com/jenkinsci/docker-agent) ([4.10-7](https://github.com/jenkinsci/docker-agent/releases/tag/4.10-7), 2 days ago) - Base Docker image for Jenkins Agents
+- [ventoy/Ventoy](https://github.com/ventoy/Ventoy) ([v1.0.54](https://github.com/ventoy/Ventoy/releases/tag/v1.0.54), 3 days ago) - A new bootable USB solution.
+- [vlang/v](https://github.com/vlang/v) ([weekly.2021.41](https://github.com/vlang/v/releases/tag/weekly.2021.41), 4 days ago) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. https://vlang.io
 
 #### 🔨 Latest Pull Requests I published
 
