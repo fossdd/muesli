@@ -28,7 +28,7 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [vlang/v](https://github.com/vlang/v) ([weekly.2021.42](https://github.com/vlang/v/releases/tag/weekly.2021.42), 2 days ago) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. https://vlang.io
+- [vlang/v](https://github.com/vlang/v) ([weekly.2021.42.1](https://github.com/vlang/v/releases/tag/weekly.2021.42.1), today) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. https://vlang.io
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) ([v1.0.55](https://github.com/ventoy/Ventoy/releases/tag/v1.0.55), 3 days ago) - A new bootable USB solution.
 - [jenkinsci/docker-agent](https://github.com/jenkinsci/docker-agent) ([4.11-1](https://github.com/jenkinsci/docker-agent/releases/tag/4.11-1), 4 days ago) - Base Docker image for Jenkins Agents
 - [cli/cli](https://github.com/cli/cli) ([v2.1.0](https://github.com/cli/cli/releases/tag/v2.1.0), 6 days ago) - GitHub’s official command line tool
