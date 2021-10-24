@@ -12,11 +12,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [fossdd/compiler-analyses](https://github.com/fossdd/compiler-analyses) - Mirrored from https://codeberg.org/fossdd/compiler-analyses (today)
-- [fossdd/pijul](https://github.com/fossdd/pijul) - Latest version of pijul mirrored to GitHub (2 days ago)
+- [fossdd/compiler-analyses](https://github.com/fossdd/compiler-analyses) - Mirrored from https://codeberg.org/fossdd/compiler-analyses (1 day ago)
+- [fossdd/pijul](https://github.com/fossdd/pijul) - Latest version of pijul mirrored to GitHub (3 days ago)
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution. (2 months ago)
 - [tenacityteam/tenacity](https://github.com/tenacityteam/tenacity) - Tenacity is an easy-to-use, privacy-friendly, FLOSS, cross-platform multi-track audio editor/recorder for Windows, macOS, Linux and other operating systems. Contributions welcome! (2 months ago)
-- [rust-random/rand](https://github.com/rust-random/rand) - A Rust library for random number generation. (2 months ago)
+- [rust-random/rand](https://github.com/rust-random/rand) - A Rust library for random number generation. (3 months ago)
 
 #### 🌱 My latest projects
 
@@ -28,8 +28,8 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [ventoy/Ventoy](https://github.com/ventoy/Ventoy) ([v1.0.56](https://github.com/ventoy/Ventoy/releases/tag/v1.0.56), 1 day ago) - A new bootable USB solution.
-- [vlang/v](https://github.com/vlang/v) ([weekly.2021.42.1](https://github.com/vlang/v/releases/tag/weekly.2021.42.1), 3 days ago) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. https://vlang.io
+- [ventoy/Ventoy](https://github.com/ventoy/Ventoy) ([v1.0.56](https://github.com/ventoy/Ventoy/releases/tag/v1.0.56), 2 days ago) - A new bootable USB solution.
+- [vlang/v](https://github.com/vlang/v) ([weekly.2021.42.1](https://github.com/vlang/v/releases/tag/weekly.2021.42.1), 4 days ago) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. https://vlang.io
 - [jenkinsci/docker-agent](https://github.com/jenkinsci/docker-agent) ([4.11-1](https://github.com/jenkinsci/docker-agent/releases/tag/4.11-1), 1 week ago) - Base Docker image for Jenkins Agents
 - [cli/cli](https://github.com/cli/cli) ([v2.1.0](https://github.com/cli/cli/releases/tag/v2.1.0), 1 week ago) - GitHub’s official command line tool
 - [audacity/audacity](https://github.com/audacity/audacity) ([Audacity-3.1.0-beta-1](https://github.com/audacity/audacity/releases/tag/Audacity-3.1.0-beta-1), 1 week ago) - Audio Editor                                     
@@ -38,8 +38,8 @@ of other projects. Curious what I've been hacking on recently?
 
 - [Fix username Label](https://github.com/ATLauncher/ATLauncher/pull/500) on [ATLauncher/ATLauncher](https://github.com/ATLauncher/ATLauncher) (2 months ago)
 - [Allow to reverse the unix timestamp back.](https://github.com/schoenenberg/unixtime/pull/4) on [schoenenberg/unixtime](https://github.com/schoenenberg/unixtime) (2 months ago)
-- [Enhance index.html](https://github.com/Sosasees/tenacity-webpage/pull/1) on [Sosasees/tenacity-webpage](https://github.com/Sosasees/tenacity-webpage) (2 months ago)
-- [Remove notice by Apache License Authors](https://github.com/rust-random/rand/pull/1151) on [rust-random/rand](https://github.com/rust-random/rand) (2 months ago)
+- [Enhance index.html](https://github.com/Sosasees/tenacity-webpage/pull/1) on [Sosasees/tenacity-webpage](https://github.com/Sosasees/tenacity-webpage) (3 months ago)
+- [Remove notice by Apache License Authors](https://github.com/rust-random/rand/pull/1151) on [rust-random/rand](https://github.com/rust-random/rand) (3 months ago)
 - [Fix typos in README.md](https://github.com/m-242/vitric/pull/1) on [m-242/vitric](https://github.com/m-242/vitric) (3 months ago)
 
 #### 📜 My recent blog posts
