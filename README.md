@@ -28,11 +28,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
+- [schoenenberg/unixtime](https://github.com/schoenenberg/unixtime) ([0.2.1](https://github.com/schoenenberg/unixtime/releases/tag/0.2.1), today) - A small utility for working with UNIX time.
 - [UPC/ravada](https://github.com/UPC/ravada) ([v1.1.1](https://github.com/UPC/ravada/releases/tag/v1.1.1), today) - Remote Virtual Desktops Manager
 - [cli/cli](https://github.com/cli/cli) ([v2.2.0](https://github.com/cli/cli/releases/tag/v2.2.0), 1 day ago) - GitHub’s official command line tool
 - [vlang/v](https://github.com/vlang/v) ([weekly.2021.43](https://github.com/vlang/v/releases/tag/weekly.2021.43), 1 day ago) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. https://vlang.io
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) ([v1.0.56](https://github.com/ventoy/Ventoy/releases/tag/v1.0.56), 4 days ago) - A new bootable USB solution.
-- [jenkinsci/docker-agent](https://github.com/jenkinsci/docker-agent) ([4.11-1](https://github.com/jenkinsci/docker-agent/releases/tag/4.11-1), 1 week ago) - Base Docker image for Jenkins Agents
 
 #### 🔨 Latest Pull Requests I published
 
