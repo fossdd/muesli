@@ -12,10 +12,10 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [fossdd/compiler-analyses](https://github.com/fossdd/compiler-analyses) - Mirrored from https://codeberg.org/fossdd/compiler-analyses (3 days ago)
-- [fossdd/pijul](https://github.com/fossdd/pijul) - Latest version of pijul mirrored to GitHub (5 days ago)
+- [fossdd/compiler-analyses](https://github.com/fossdd/compiler-analyses) - Mirrored from https://codeberg.org/fossdd/compiler-analyses (4 days ago)
+- [fossdd/pijul](https://github.com/fossdd/pijul) - Latest version of pijul mirrored to GitHub (6 days ago)
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution. (2 months ago)
-- [tenacityteam/tenacity](https://github.com/tenacityteam/tenacity) - Tenacity is an easy-to-use, privacy-friendly, FLOSS, cross-platform multi-track audio editor/recorder for Windows, macOS, Linux and other operating systems. Contributions welcome! (2 months ago)
+- [tenacityteam/tenacity](https://github.com/tenacityteam/tenacity) - Tenacity is an easy-to-use, privacy-friendly, FLOSS, cross-platform multi-track audio editor/recorder for Windows, macOS, Linux and other operating systems. Contributions welcome! (3 months ago)
 - [rust-random/rand](https://github.com/rust-random/rand) - A Rust library for random number generation. (3 months ago)
 
 #### 🌱 My latest projects
@@ -28,11 +28,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [schoenenberg/unixtime](https://github.com/schoenenberg/unixtime) ([0.2.1](https://github.com/schoenenberg/unixtime/releases/tag/0.2.1), today) - A small utility for working with UNIX time.
-- [UPC/ravada](https://github.com/UPC/ravada) ([v1.1.1](https://github.com/UPC/ravada/releases/tag/v1.1.1), today) - Remote Virtual Desktops Manager
-- [cli/cli](https://github.com/cli/cli) ([v2.2.0](https://github.com/cli/cli/releases/tag/v2.2.0), 1 day ago) - GitHub’s official command line tool
-- [vlang/v](https://github.com/vlang/v) ([weekly.2021.43](https://github.com/vlang/v/releases/tag/weekly.2021.43), 1 day ago) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. https://vlang.io
-- [ventoy/Ventoy](https://github.com/ventoy/Ventoy) ([v1.0.56](https://github.com/ventoy/Ventoy/releases/tag/v1.0.56), 4 days ago) - A new bootable USB solution.
+- [schoenenberg/unixtime](https://github.com/schoenenberg/unixtime) ([0.2.1](https://github.com/schoenenberg/unixtime/releases/tag/0.2.1), 1 day ago) - A small utility for working with UNIX time.
+- [UPC/ravada](https://github.com/UPC/ravada) ([v1.1.1](https://github.com/UPC/ravada/releases/tag/v1.1.1), 1 day ago) - Remote Virtual Desktops Manager
+- [cli/cli](https://github.com/cli/cli) ([v2.2.0](https://github.com/cli/cli/releases/tag/v2.2.0), 2 days ago) - GitHub’s official command line tool
+- [vlang/v](https://github.com/vlang/v) ([weekly.2021.43](https://github.com/vlang/v/releases/tag/weekly.2021.43), 2 days ago) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. https://vlang.io
+- [ventoy/Ventoy](https://github.com/ventoy/Ventoy) ([v1.0.56](https://github.com/ventoy/Ventoy/releases/tag/v1.0.56), 5 days ago) - A new bootable USB solution.
 
 #### 🔨 Latest Pull Requests I published
 
