@@ -28,11 +28,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
+- [audacity/audacity](https://github.com/audacity/audacity) ([Audacity-3.1.0](https://github.com/audacity/audacity/releases/tag/Audacity-3.1.0), today) - Audio Editor                                     
 - [helix-editor/helix](https://github.com/helix-editor/helix) ([v0.5.0](https://github.com/helix-editor/helix/releases/tag/v0.5.0), today) - A post-modern modal text editor.
 - [schoenenberg/unixtime](https://github.com/schoenenberg/unixtime) ([0.2.1](https://github.com/schoenenberg/unixtime/releases/tag/0.2.1), 2 days ago) - A small utility for working with UNIX time.
 - [UPC/ravada](https://github.com/UPC/ravada) ([v1.1.1](https://github.com/UPC/ravada/releases/tag/v1.1.1), 2 days ago) - Remote Virtual Desktops Manager
 - [cli/cli](https://github.com/cli/cli) ([v2.2.0](https://github.com/cli/cli/releases/tag/v2.2.0), 3 days ago) - GitHub’s official command line tool
-- [vlang/v](https://github.com/vlang/v) ([weekly.2021.43](https://github.com/vlang/v/releases/tag/weekly.2021.43), 3 days ago) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. https://vlang.io
 
 #### 🔨 Latest Pull Requests I published
 
