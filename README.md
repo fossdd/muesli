@@ -28,11 +28,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
+- [ventoy/Ventoy](https://github.com/ventoy/Ventoy) ([v1.0.57](https://github.com/ventoy/Ventoy/releases/tag/v1.0.57), today) - A new bootable USB solution.
 - [bubelov/news](https://github.com/bubelov/news) ([preview](https://github.com/bubelov/news/releases/tag/preview), 1 day ago) - Feed reader and podcast player for Nextcloud (unofficial)
 - [audacity/audacity](https://github.com/audacity/audacity) ([Audacity-3.1.0](https://github.com/audacity/audacity/releases/tag/Audacity-3.1.0), 1 day ago) - Audio Editor                                     
 - [helix-editor/helix](https://github.com/helix-editor/helix) ([v0.5.0](https://github.com/helix-editor/helix/releases/tag/v0.5.0), 1 day ago) - A post-modern modal text editor.
 - [schoenenberg/unixtime](https://github.com/schoenenberg/unixtime) ([0.2.1](https://github.com/schoenenberg/unixtime/releases/tag/0.2.1), 3 days ago) - A small utility for working with UNIX time.
-- [UPC/ravada](https://github.com/UPC/ravada) ([v1.1.1](https://github.com/UPC/ravada/releases/tag/v1.1.1), 3 days ago) - Remote Virtual Desktops Manager
 
 #### 🔨 Latest Pull Requests I published
 
