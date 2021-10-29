@@ -12,9 +12,9 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [fossdd/compiler-analyses](https://github.com/fossdd/compiler-analyses) - Mirrored from https://codeberg.org/fossdd/compiler-analyses (5 days ago)
+- [fossdd/compiler-analyses](https://github.com/fossdd/compiler-analyses) - Mirrored from https://codeberg.org/fossdd/compiler-analyses (6 days ago)
 - [fossdd/pijul](https://github.com/fossdd/pijul) - Latest version of pijul mirrored to GitHub (1 week ago)
-- [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution. (2 months ago)
+- [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution. (3 months ago)
 - [tenacityteam/tenacity](https://github.com/tenacityteam/tenacity) - Tenacity is an easy-to-use, privacy-friendly, FLOSS, cross-platform multi-track audio editor/recorder for Windows, macOS, Linux and other operating systems. Contributions welcome! (3 months ago)
 - [rust-random/rand](https://github.com/rust-random/rand) - A Rust library for random number generation. (3 months ago)
 
@@ -28,11 +28,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [bubelov/news](https://github.com/bubelov/news) ([preview](https://github.com/bubelov/news/releases/tag/preview), today) - Feed reader and podcast player for Nextcloud (unofficial)
-- [audacity/audacity](https://github.com/audacity/audacity) ([Audacity-3.1.0](https://github.com/audacity/audacity/releases/tag/Audacity-3.1.0), today) - Audio Editor                                     
-- [helix-editor/helix](https://github.com/helix-editor/helix) ([v0.5.0](https://github.com/helix-editor/helix/releases/tag/v0.5.0), today) - A post-modern modal text editor.
-- [schoenenberg/unixtime](https://github.com/schoenenberg/unixtime) ([0.2.1](https://github.com/schoenenberg/unixtime/releases/tag/0.2.1), 2 days ago) - A small utility for working with UNIX time.
-- [UPC/ravada](https://github.com/UPC/ravada) ([v1.1.1](https://github.com/UPC/ravada/releases/tag/v1.1.1), 2 days ago) - Remote Virtual Desktops Manager
+- [bubelov/news](https://github.com/bubelov/news) ([preview](https://github.com/bubelov/news/releases/tag/preview), 1 day ago) - Feed reader and podcast player for Nextcloud (unofficial)
+- [audacity/audacity](https://github.com/audacity/audacity) ([Audacity-3.1.0](https://github.com/audacity/audacity/releases/tag/Audacity-3.1.0), 1 day ago) - Audio Editor                                     
+- [helix-editor/helix](https://github.com/helix-editor/helix) ([v0.5.0](https://github.com/helix-editor/helix/releases/tag/v0.5.0), 1 day ago) - A post-modern modal text editor.
+- [schoenenberg/unixtime](https://github.com/schoenenberg/unixtime) ([0.2.1](https://github.com/schoenenberg/unixtime/releases/tag/0.2.1), 3 days ago) - A small utility for working with UNIX time.
+- [UPC/ravada](https://github.com/UPC/ravada) ([v1.1.1](https://github.com/UPC/ravada/releases/tag/v1.1.1), 3 days ago) - Remote Virtual Desktops Manager
 
 #### 🔨 Latest Pull Requests I published
 
