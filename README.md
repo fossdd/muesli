@@ -12,7 +12,7 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [fossdd/compiler-analyses](https://github.com/fossdd/compiler-analyses) - Mirrored from https://codeberg.org/fossdd/compiler-analyses (1 day ago)
+- [fossdd/compiler-analyses](https://github.com/fossdd/compiler-analyses) - Mirrored from https://codeberg.org/fossdd/compiler-analyses (2 days ago)
 - [fossdd/pijul](https://github.com/fossdd/pijul) - Latest version of pijul mirrored to GitHub (1 week ago)
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution. (3 months ago)
 - [tenacityteam/tenacity](https://github.com/tenacityteam/tenacity) - Tenacity is an easy-to-use, privacy-friendly, FLOSS, cross-platform multi-track audio editor/recorder for Windows, macOS, Linux and other operating systems. Contributions welcome! (3 months ago)
@@ -28,11 +28,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [ventoy/Ventoy](https://github.com/ventoy/Ventoy) ([v1.0.57](https://github.com/ventoy/Ventoy/releases/tag/v1.0.57), 2 days ago) - A new bootable USB solution.
-- [bubelov/news](https://github.com/bubelov/news) ([preview](https://github.com/bubelov/news/releases/tag/preview), 3 days ago) - Feed reader and podcast player for Nextcloud (unofficial)
-- [audacity/audacity](https://github.com/audacity/audacity) ([Audacity-3.1.0](https://github.com/audacity/audacity/releases/tag/Audacity-3.1.0), 3 days ago) - Audio Editor                                     
-- [helix-editor/helix](https://github.com/helix-editor/helix) ([v0.5.0](https://github.com/helix-editor/helix/releases/tag/v0.5.0), 3 days ago) - A post-modern modal text editor.
-- [schoenenberg/unixtime](https://github.com/schoenenberg/unixtime) ([0.2.1](https://github.com/schoenenberg/unixtime/releases/tag/0.2.1), 5 days ago) - A small utility for working with UNIX time.
+- [ventoy/Ventoy](https://github.com/ventoy/Ventoy) ([v1.0.57](https://github.com/ventoy/Ventoy/releases/tag/v1.0.57), 3 days ago) - A new bootable USB solution.
+- [bubelov/news](https://github.com/bubelov/news) ([preview](https://github.com/bubelov/news/releases/tag/preview), 4 days ago) - Feed reader and podcast player for Nextcloud (unofficial)
+- [audacity/audacity](https://github.com/audacity/audacity) ([Audacity-3.1.0](https://github.com/audacity/audacity/releases/tag/Audacity-3.1.0), 4 days ago) - Audio Editor                                     
+- [helix-editor/helix](https://github.com/helix-editor/helix) ([v0.5.0](https://github.com/helix-editor/helix/releases/tag/v0.5.0), 4 days ago) - A post-modern modal text editor.
+- [schoenenberg/unixtime](https://github.com/schoenenberg/unixtime) ([0.2.1](https://github.com/schoenenberg/unixtime/releases/tag/0.2.1), 6 days ago) - A small utility for working with UNIX time.
 
 #### 🔨 Latest Pull Requests I published
 
