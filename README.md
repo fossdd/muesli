@@ -28,10 +28,10 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
+- [ventoy/Ventoy](https://github.com/ventoy/Ventoy) ([v1.0.58](https://github.com/ventoy/Ventoy/releases/tag/v1.0.58), today) - A new bootable USB solution.
 - [massivemadness/Squircle-IDE](https://github.com/massivemadness/Squircle-IDE) ([2.1.0](https://github.com/massivemadness/Squircle-IDE/releases/tag/2.1.0), 3 days ago) - 👨‍💻 Squircle IDE is a fast and free multi-language code editor for Android
 - [bubelov/news](https://github.com/bubelov/news) ([preview](https://github.com/bubelov/news/releases/tag/preview), 3 days ago) - Feed reader and podcast player for Nextcloud (unofficial)
 - [vlang/v](https://github.com/vlang/v) ([weekly.2021.44](https://github.com/vlang/v/releases/tag/weekly.2021.44), 4 days ago) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. https://vlang.io
-- [ventoy/Ventoy](https://github.com/ventoy/Ventoy) ([v1.0.57](https://github.com/ventoy/Ventoy/releases/tag/v1.0.57), 1 week ago) - A new bootable USB solution.
 - [audacity/audacity](https://github.com/audacity/audacity) ([Audacity-3.1.0](https://github.com/audacity/audacity/releases/tag/Audacity-3.1.0), 1 week ago) - Audio Editor                                     
 
 #### 🔨 Latest Pull Requests I published
