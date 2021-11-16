@@ -12,7 +12,7 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [fossdd/compiler-analyses](https://github.com/fossdd/compiler-analyses) - Mirrored from https://codeberg.org/fossdd/compiler-analyses (2 days ago)
+- [fossdd/compiler-analyses](https://github.com/fossdd/compiler-analyses) - Mirrored from https://codeberg.org/fossdd/compiler-analyses (3 days ago)
 - [fossdd/pijul](https://github.com/fossdd/pijul) - Latest version of pijul mirrored to GitHub (3 weeks ago)
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution. (3 months ago)
 - [tenacityteam/tenacity](https://github.com/tenacityteam/tenacity) - Tenacity is an easy-to-use, privacy-friendly, FLOSS, cross-platform multi-track audio editor/recorder for Windows, macOS, Linux and other operating systems. Contributions welcome! (3 months ago)
@@ -28,11 +28,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [bubelov/news](https://github.com/bubelov/news) ([preview](https://github.com/bubelov/news/releases/tag/preview), today) - Feed reader and podcast player for for Miniflux and Nextcloud
-- [vlang/v](https://github.com/vlang/v) ([weekly.2021.46](https://github.com/vlang/v/releases/tag/weekly.2021.46), today) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. https://vlang.io
-- [massivemadness/Squircle-IDE](https://github.com/massivemadness/Squircle-IDE) ([editorkit/2.1.1](https://github.com/massivemadness/Squircle-IDE/releases/tag/editorkit%2F2.1.1), 1 day ago) - 👨‍💻 Squircle IDE is a fast and free multi-language code editor for Android
-- [ventoy/Ventoy](https://github.com/ventoy/Ventoy) ([v1.0.61](https://github.com/ventoy/Ventoy/releases/tag/v1.0.61), 2 days ago) - A new bootable USB solution.
-- [markusfisch/BinaryEye](https://github.com/markusfisch/BinaryEye) ([1.46.0](https://github.com/markusfisch/BinaryEye/releases/tag/1.46.0), 2 days ago) - Yet another barcode scanner for Android
+- [bubelov/news](https://github.com/bubelov/news) ([preview](https://github.com/bubelov/news/releases/tag/preview), 1 day ago) - Feed reader and podcast player for for Miniflux and Nextcloud
+- [vlang/v](https://github.com/vlang/v) ([weekly.2021.46](https://github.com/vlang/v/releases/tag/weekly.2021.46), 1 day ago) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. https://vlang.io
+- [massivemadness/Squircle-IDE](https://github.com/massivemadness/Squircle-IDE) ([editorkit/2.1.1](https://github.com/massivemadness/Squircle-IDE/releases/tag/editorkit%2F2.1.1), 2 days ago) - 👨‍💻 Squircle IDE is a fast and free multi-language code editor for Android
+- [ventoy/Ventoy](https://github.com/ventoy/Ventoy) ([v1.0.61](https://github.com/ventoy/Ventoy/releases/tag/v1.0.61), 3 days ago) - A new bootable USB solution.
+- [markusfisch/BinaryEye](https://github.com/markusfisch/BinaryEye) ([1.46.0](https://github.com/markusfisch/BinaryEye/releases/tag/1.46.0), 3 days ago) - Yet another barcode scanner for Android
 
 #### 🔨 Latest Pull Requests I published
 
@@ -44,7 +44,7 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 📜 My recent blog posts
 
-- [Self-hosting VSCode](https://fribbledom.com/posts/selfhosting-vscode/) (4 months ago)
+- [Self-hosting VSCode](https://fribbledom.com/posts/selfhosting-vscode/) (5 months ago)
 - [Installing Arch Linux with Full Disk Encryption](https://fribbledom.com/posts/encrypted-arch-install/) (2 years ago)
 - [Remotely Installing a Fully-Encrypted Debian Server](https://fribbledom.com/posts/encrypted-remote-debian-install/) (3 years ago)
 - [Gamut, a Go Package to Manage Color Palettes](https://fribbledom.com/posts/gamut-package-to-handle-color-palettes/) (3 years ago)
