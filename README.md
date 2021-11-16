@@ -28,11 +28,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
+- [audacity/audacity](https://github.com/audacity/audacity) ([Audacity-3.1.2](https://github.com/audacity/audacity/releases/tag/Audacity-3.1.2), today) - Audio Editor                                     
 - [bubelov/news](https://github.com/bubelov/news) ([preview](https://github.com/bubelov/news/releases/tag/preview), 1 day ago) - Feed reader and podcast player for for Miniflux and Nextcloud
 - [vlang/v](https://github.com/vlang/v) ([weekly.2021.46](https://github.com/vlang/v/releases/tag/weekly.2021.46), 1 day ago) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. https://vlang.io
 - [massivemadness/Squircle-IDE](https://github.com/massivemadness/Squircle-IDE) ([editorkit/2.1.1](https://github.com/massivemadness/Squircle-IDE/releases/tag/editorkit%2F2.1.1), 2 days ago) - 👨‍💻 Squircle IDE is a fast and free multi-language code editor for Android
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) ([v1.0.61](https://github.com/ventoy/Ventoy/releases/tag/v1.0.61), 3 days ago) - A new bootable USB solution.
-- [markusfisch/BinaryEye](https://github.com/markusfisch/BinaryEye) ([1.46.0](https://github.com/markusfisch/BinaryEye/releases/tag/1.46.0), 3 days ago) - Yet another barcode scanner for Android
 
 #### 🔨 Latest Pull Requests I published
 
