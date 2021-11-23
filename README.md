@@ -12,11 +12,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [fossdd/compiler-analyses](https://github.com/fossdd/compiler-analyses) - Mirrored from https://codeberg.org/fossdd/compiler-analyses (2 days ago)
+- [fossdd/compiler-analyses](https://github.com/fossdd/compiler-analyses) - Mirrored from https://codeberg.org/fossdd/compiler-analyses (3 days ago)
 - [fossdd/pijul](https://github.com/fossdd/pijul) - Latest version of pijul mirrored to GitHub (1 month ago)
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution. (3 months ago)
 - [tenacityteam/tenacity](https://github.com/tenacityteam/tenacity) - Tenacity is an easy-to-use, privacy-friendly, FLOSS, cross-platform multi-track audio editor/recorder for Windows, macOS, Linux and other operating systems. Contributions welcome! (3 months ago)
-- [rust-random/rand](https://github.com/rust-random/rand) - A Rust library for random number generation. (3 months ago)
+- [rust-random/rand](https://github.com/rust-random/rand) - A Rust library for random number generation. (4 months ago)
 
 #### 🌱 My latest projects
 
@@ -28,9 +28,9 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [bubelov/news](https://github.com/bubelov/news) ([preview](https://github.com/bubelov/news/releases/tag/preview), today) - Feed reader and podcast player for for Miniflux and Nextcloud
-- [UPC/ravada](https://github.com/UPC/ravada) ([v1.0.7](https://github.com/UPC/ravada/releases/tag/v1.0.7), 4 days ago) - Remote Virtual Desktops Manager
-- [audacity/audacity](https://github.com/audacity/audacity) ([Audacity-3.1.2](https://github.com/audacity/audacity/releases/tag/Audacity-3.1.2), 6 days ago) - Audio Editor                                     
+- [bubelov/news](https://github.com/bubelov/news) ([preview](https://github.com/bubelov/news/releases/tag/preview), 1 day ago) - Feed reader and podcast player for for Miniflux and Nextcloud
+- [UPC/ravada](https://github.com/UPC/ravada) ([v1.0.7](https://github.com/UPC/ravada/releases/tag/v1.0.7), 5 days ago) - Remote Virtual Desktops Manager
+- [audacity/audacity](https://github.com/audacity/audacity) ([Audacity-3.1.2](https://github.com/audacity/audacity/releases/tag/Audacity-3.1.2), 1 week ago) - Audio Editor                                     
 - [vlang/v](https://github.com/vlang/v) ([weekly.2021.46](https://github.com/vlang/v/releases/tag/weekly.2021.46), 1 week ago) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. https://vlang.io
 - [massivemadness/Squircle-IDE](https://github.com/massivemadness/Squircle-IDE) ([editorkit/2.1.1](https://github.com/massivemadness/Squircle-IDE/releases/tag/editorkit%2F2.1.1), 1 week ago) - 👨‍💻 Squircle IDE is a fast and free multi-language code editor for Android
 
@@ -38,8 +38,8 @@ of other projects. Curious what I've been hacking on recently?
 
 - [Fix username Label](https://github.com/ATLauncher/ATLauncher/pull/500) on [ATLauncher/ATLauncher](https://github.com/ATLauncher/ATLauncher) (3 months ago)
 - [Allow to reverse the unix timestamp back.](https://github.com/schoenenberg/unixtime/pull/4) on [schoenenberg/unixtime](https://github.com/schoenenberg/unixtime) (3 months ago)
-- [Enhance index.html](https://github.com/Sosasees/tenacity-webpage/pull/1) on [Sosasees/tenacity-webpage](https://github.com/Sosasees/tenacity-webpage) (3 months ago)
-- [Remove notice by Apache License Authors](https://github.com/rust-random/rand/pull/1151) on [rust-random/rand](https://github.com/rust-random/rand) (3 months ago)
+- [Enhance index.html](https://github.com/Sosasees/tenacity-webpage/pull/1) on [Sosasees/tenacity-webpage](https://github.com/Sosasees/tenacity-webpage) (4 months ago)
+- [Remove notice by Apache License Authors](https://github.com/rust-random/rand/pull/1151) on [rust-random/rand](https://github.com/rust-random/rand) (4 months ago)
 - [Fix typos in README.md](https://github.com/m-242/vitric/pull/1) on [m-242/vitric](https://github.com/m-242/vitric) (4 months ago)
 
 #### 📜 My recent blog posts
