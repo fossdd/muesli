@@ -28,10 +28,10 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
+- [UPC/ravada](https://github.com/UPC/ravada) ([v1.1.2](https://github.com/UPC/ravada/releases/tag/v1.1.2), today) - Remote Virtual Desktops Manager
 - [bubelov/news](https://github.com/bubelov/news) ([preview](https://github.com/bubelov/news/releases/tag/preview), 1 day ago) - Feed reader and podcast player for for Miniflux and Nextcloud
 - [audacity/audacity](https://github.com/audacity/audacity) ([Audacity-3.1.3-beta-1](https://github.com/audacity/audacity/releases/tag/Audacity-3.1.3-beta-1), 6 days ago) - Audio Editor                                     
 - [vlang/v](https://github.com/vlang/v) ([weekly.2021.47](https://github.com/vlang/v/releases/tag/weekly.2021.47), 6 days ago) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. https://vlang.io
-- [UPC/ravada](https://github.com/UPC/ravada) ([v1.0.7](https://github.com/UPC/ravada/releases/tag/v1.0.7), 1 week ago) - Remote Virtual Desktops Manager
 - [massivemadness/Squircle-IDE](https://github.com/massivemadness/Squircle-IDE) ([editorkit/2.1.1](https://github.com/massivemadness/Squircle-IDE/releases/tag/editorkit%2F2.1.1), 2 weeks ago) - 👨‍💻 Squircle IDE is a fast and free multi-language code editor for Android
 
 #### 🔨 Latest Pull Requests I published
