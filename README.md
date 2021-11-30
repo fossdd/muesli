@@ -12,8 +12,8 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [fossdd/pijul](https://github.com/fossdd/pijul) - Latest version of pijul mirrored to GitHub (1 day ago)
-- [fossdd/compiler-analyses](https://github.com/fossdd/compiler-analyses) - Mirrored from https://codeberg.org/fossdd/compiler-analyses (2 days ago)
+- [fossdd/pijul](https://github.com/fossdd/pijul) - Latest version of pijul mirrored to GitHub (2 days ago)
+- [fossdd/compiler-analyses](https://github.com/fossdd/compiler-analyses) - Mirrored from https://codeberg.org/fossdd/compiler-analyses (3 days ago)
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution. (4 months ago)
 - [tenacityteam/tenacity](https://github.com/tenacityteam/tenacity) - Tenacity is an easy-to-use, privacy-friendly, FLOSS, cross-platform multi-track audio editor/recorder for Windows, macOS, Linux and other operating systems. Contributions welcome! (4 months ago)
 - [rust-random/rand](https://github.com/rust-random/rand) - A Rust library for random number generation. (4 months ago)
@@ -28,10 +28,10 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [bubelov/news](https://github.com/bubelov/news) ([preview](https://github.com/bubelov/news/releases/tag/preview), today) - Feed reader and podcast player for for Miniflux and Nextcloud
-- [UPC/ravada](https://github.com/UPC/ravada) ([v1.1.2](https://github.com/UPC/ravada/releases/tag/v1.1.2), today) - Remote Virtual Desktops Manager
-- [audacity/audacity](https://github.com/audacity/audacity) ([Audacity-3.1.3-beta-1](https://github.com/audacity/audacity/releases/tag/Audacity-3.1.3-beta-1), 6 days ago) - Audio Editor                                     
-- [vlang/v](https://github.com/vlang/v) ([weekly.2021.47](https://github.com/vlang/v/releases/tag/weekly.2021.47), 6 days ago) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. https://vlang.io
+- [bubelov/news](https://github.com/bubelov/news) ([preview](https://github.com/bubelov/news/releases/tag/preview), 1 day ago) - Feed reader and podcast player for for Miniflux and Nextcloud
+- [UPC/ravada](https://github.com/UPC/ravada) ([v1.1.2](https://github.com/UPC/ravada/releases/tag/v1.1.2), 1 day ago) - Remote Virtual Desktops Manager
+- [audacity/audacity](https://github.com/audacity/audacity) ([Audacity-3.1.3-beta-1](https://github.com/audacity/audacity/releases/tag/Audacity-3.1.3-beta-1), 1 week ago) - Audio Editor                                     
+- [vlang/v](https://github.com/vlang/v) ([weekly.2021.47](https://github.com/vlang/v/releases/tag/weekly.2021.47), 1 week ago) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. https://vlang.io
 - [massivemadness/Squircle-IDE](https://github.com/massivemadness/Squircle-IDE) ([editorkit/2.1.1](https://github.com/massivemadness/Squircle-IDE/releases/tag/editorkit%2F2.1.1), 2 weeks ago) - 👨‍💻 Squircle IDE is a fast and free multi-language code editor for Android
 
 #### 🔨 Latest Pull Requests I published
