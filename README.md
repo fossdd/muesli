@@ -28,11 +28,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
+- [jenkinsci/docker-agent](https://github.com/jenkinsci/docker-agent) ([4.11.2-1](https://github.com/jenkinsci/docker-agent/releases/tag/4.11.2-1), today) - Base Docker image for Jenkins Agents
 - [cli/cli](https://github.com/cli/cli) ([v2.3.0](https://github.com/cli/cli/releases/tag/v2.3.0), 3 days ago) - GitHub’s official command line tool
 - [vlang/v](https://github.com/vlang/v) ([weekly.2021.48](https://github.com/vlang/v/releases/tag/weekly.2021.48), 3 days ago) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. https://vlang.io
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) ([v1.0.62](https://github.com/ventoy/Ventoy/releases/tag/v1.0.62), 3 days ago) - A new bootable USB solution.
 - [bubelov/news](https://github.com/bubelov/news) ([preview](https://github.com/bubelov/news/releases/tag/preview), 3 days ago) - Feed reader and podcast player for for Miniflux and Nextcloud
-- [UPC/ravada](https://github.com/UPC/ravada) ([v1.1.2](https://github.com/UPC/ravada/releases/tag/v1.1.2), 6 days ago) - Remote Virtual Desktops Manager
 
 #### 🔨 Latest Pull Requests I published
 
