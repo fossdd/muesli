@@ -28,11 +28,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
+- [markusfisch/BinaryEye](https://github.com/markusfisch/BinaryEye) ([1.46.1](https://github.com/markusfisch/BinaryEye/releases/tag/1.46.1), today) - Yet another barcode scanner for Android
 - [jenkinsci/docker-agent](https://github.com/jenkinsci/docker-agent) ([4.11.2-1](https://github.com/jenkinsci/docker-agent/releases/tag/4.11.2-1), 1 day ago) - Base Docker image for Jenkins Agents
 - [cli/cli](https://github.com/cli/cli) ([v2.3.0](https://github.com/cli/cli/releases/tag/v2.3.0), 4 days ago) - GitHub’s official command line tool
 - [vlang/v](https://github.com/vlang/v) ([weekly.2021.48](https://github.com/vlang/v/releases/tag/weekly.2021.48), 4 days ago) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. https://vlang.io
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) ([v1.0.62](https://github.com/ventoy/Ventoy/releases/tag/v1.0.62), 4 days ago) - A new bootable USB solution.
-- [bubelov/news](https://github.com/bubelov/news) ([preview](https://github.com/bubelov/news/releases/tag/preview), 4 days ago) - Feed reader and podcast player for for Miniflux and Nextcloud
 
 #### 🔨 Latest Pull Requests I published
 
