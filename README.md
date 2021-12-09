@@ -28,11 +28,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
+- [UPC/ravada](https://github.com/UPC/ravada) ([v1.1.3](https://github.com/UPC/ravada/releases/tag/v1.1.3), today) - Remote Virtual Desktops Manager
 - [bubelov/news](https://github.com/bubelov/news) ([v0.3.2](https://github.com/bubelov/news/releases/tag/v0.3.2), 2 days ago) - Feed reader and podcast player for for Miniflux and Nextcloud
 - [markusfisch/BinaryEye](https://github.com/markusfisch/BinaryEye) ([1.46.1](https://github.com/markusfisch/BinaryEye/releases/tag/1.46.1), 3 days ago) - Yet another barcode scanner for Android
 - [jenkinsci/docker-agent](https://github.com/jenkinsci/docker-agent) ([4.11.2-1](https://github.com/jenkinsci/docker-agent/releases/tag/4.11.2-1), 4 days ago) - Base Docker image for Jenkins Agents
 - [cli/cli](https://github.com/cli/cli) ([v2.3.0](https://github.com/cli/cli/releases/tag/v2.3.0), 1 week ago) - GitHub’s official command line tool
-- [vlang/v](https://github.com/vlang/v) ([weekly.2021.48](https://github.com/vlang/v/releases/tag/weekly.2021.48), 1 week ago) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. https://vlang.io
 
 #### 🔨 Latest Pull Requests I published
 
