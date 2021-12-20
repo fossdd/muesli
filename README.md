@@ -28,11 +28,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
+- [ventoy/Ventoy](https://github.com/ventoy/Ventoy) ([v1.0.63](https://github.com/ventoy/Ventoy/releases/tag/v1.0.63), today) - A new bootable USB solution.
 - [bubelov/news](https://github.com/bubelov/news) ([preview](https://github.com/bubelov/news/releases/tag/preview), today) - Feed reader and podcast player for for Miniflux and Nextcloud
 - [markusfisch/BinaryEye](https://github.com/markusfisch/BinaryEye) ([1.46.3](https://github.com/markusfisch/BinaryEye/releases/tag/1.46.3), 5 days ago) - Yet another barcode scanner for Android
 - [vlang/v](https://github.com/vlang/v) ([weekly.2021.50.3](https://github.com/vlang/v/releases/tag/weekly.2021.50.3), 6 days ago) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. https://vlang.io
 - [UPC/ravada](https://github.com/UPC/ravada) ([v1.2.0](https://github.com/UPC/ravada/releases/tag/v1.2.0), 1 week ago) - Remote Virtual Desktops Manager
-- [jenkinsci/docker-agent](https://github.com/jenkinsci/docker-agent) ([4.11.2-2](https://github.com/jenkinsci/docker-agent/releases/tag/4.11.2-2), 1 week ago) - Base Docker image for Jenkins Agents
 
 #### 🔨 Latest Pull Requests I published
 
