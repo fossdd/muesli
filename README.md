@@ -28,10 +28,10 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
+- [vlang/v](https://github.com/vlang/v) ([weekly.2021.51](https://github.com/vlang/v/releases/tag/weekly.2021.51), today) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. https://vlang.io
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) ([v1.0.63](https://github.com/ventoy/Ventoy/releases/tag/v1.0.63), 1 day ago) - A new bootable USB solution.
 - [bubelov/news](https://github.com/bubelov/news) ([preview](https://github.com/bubelov/news/releases/tag/preview), 1 day ago) - Feed reader and podcast player for for Miniflux and Nextcloud
 - [markusfisch/BinaryEye](https://github.com/markusfisch/BinaryEye) ([1.46.3](https://github.com/markusfisch/BinaryEye/releases/tag/1.46.3), 6 days ago) - Yet another barcode scanner for Android
-- [vlang/v](https://github.com/vlang/v) ([weekly.2021.50.3](https://github.com/vlang/v/releases/tag/weekly.2021.50.3), 1 week ago) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. https://vlang.io
 - [UPC/ravada](https://github.com/UPC/ravada) ([v1.2.0](https://github.com/UPC/ravada/releases/tag/v1.2.0), 1 week ago) - Remote Virtual Desktops Manager
 
 #### 🔨 Latest Pull Requests I published
