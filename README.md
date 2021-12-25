@@ -12,7 +12,7 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [fossdd/compiler-analyses](https://github.com/fossdd/compiler-analyses) - Mirrored from https://codeberg.org/fossdd/compiler-analyses (6 days ago)
+- [fossdd/compiler-analyses](https://github.com/fossdd/compiler-analyses) - Mirrored from https://codeberg.org/fossdd/compiler-analyses (1 week ago)
 - [fossdd/pijul](https://github.com/fossdd/pijul) - Latest version of pijul mirrored to GitHub (2 weeks ago)
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution. (4 months ago)
 - [tenacityteam/tenacity](https://github.com/tenacityteam/tenacity) - Tenacity is an easy-to-use, privacy-friendly, FLOSS, cross-platform multi-track audio editor/recorder for Windows, macOS, Linux and other operating systems. Contributions welcome! (4 months ago)
@@ -28,16 +28,16 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [markusfisch/BinaryEye](https://github.com/markusfisch/BinaryEye) ([1.47.0](https://github.com/markusfisch/BinaryEye/releases/tag/1.47.0), 1 day ago) - Yet another barcode scanner for Android
-- [audacity/audacity](https://github.com/audacity/audacity) ([Audacity-3.1.3](https://github.com/audacity/audacity/releases/tag/Audacity-3.1.3), 1 day ago) - Audio Editor                                     
-- [cli/cli](https://github.com/cli/cli) ([v2.4.0](https://github.com/cli/cli/releases/tag/v2.4.0), 3 days ago) - GitHub’s official command line tool
-- [vlang/v](https://github.com/vlang/v) ([weekly.2021.51](https://github.com/vlang/v/releases/tag/weekly.2021.51), 3 days ago) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. https://vlang.io
-- [ventoy/Ventoy](https://github.com/ventoy/Ventoy) ([v1.0.63](https://github.com/ventoy/Ventoy/releases/tag/v1.0.63), 4 days ago) - A new bootable USB solution.
+- [markusfisch/BinaryEye](https://github.com/markusfisch/BinaryEye) ([1.47.0](https://github.com/markusfisch/BinaryEye/releases/tag/1.47.0), 2 days ago) - Yet another barcode scanner for Android
+- [audacity/audacity](https://github.com/audacity/audacity) ([Audacity-3.1.3](https://github.com/audacity/audacity/releases/tag/Audacity-3.1.3), 2 days ago) - Audio Editor                                     
+- [cli/cli](https://github.com/cli/cli) ([v2.4.0](https://github.com/cli/cli/releases/tag/v2.4.0), 4 days ago) - GitHub’s official command line tool
+- [vlang/v](https://github.com/vlang/v) ([weekly.2021.51](https://github.com/vlang/v/releases/tag/weekly.2021.51), 4 days ago) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. https://vlang.io
+- [ventoy/Ventoy](https://github.com/ventoy/Ventoy) ([v1.0.63](https://github.com/ventoy/Ventoy/releases/tag/v1.0.63), 5 days ago) - A new bootable USB solution.
 
 #### 🔨 Latest Pull Requests I published
 
 - [Fix username Label](https://github.com/ATLauncher/ATLauncher/pull/500) on [ATLauncher/ATLauncher](https://github.com/ATLauncher/ATLauncher) (4 months ago)
-- [Allow to reverse the unix timestamp back.](https://github.com/schoenenberg/unixtime/pull/4) on [schoenenberg/unixtime](https://github.com/schoenenberg/unixtime) (4 months ago)
+- [Allow to reverse the unix timestamp back.](https://github.com/schoenenberg/unixtime/pull/4) on [schoenenberg/unixtime](https://github.com/schoenenberg/unixtime) (5 months ago)
 - [Enhance index.html](https://github.com/Sosasees/tenacity-webpage/pull/1) on [Sosasees/tenacity-webpage](https://github.com/Sosasees/tenacity-webpage) (5 months ago)
 - [Remove notice by Apache License Authors](https://github.com/rust-random/rand/pull/1151) on [rust-random/rand](https://github.com/rust-random/rand) (5 months ago)
 - [Fix typos in README.md](https://github.com/m-242/vitric/pull/1) on [m-242/vitric](https://github.com/m-242/vitric) (5 months ago)
