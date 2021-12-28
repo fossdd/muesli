@@ -28,7 +28,7 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [vlang/v](https://github.com/vlang/v) ([weekly.2021.52](https://github.com/vlang/v/releases/tag/weekly.2021.52), 1 day ago) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. https://vlang.io
+- [vlang/v](https://github.com/vlang/v) ([weekly.2021.52.1](https://github.com/vlang/v/releases/tag/weekly.2021.52.1), today) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. https://vlang.io
 - [markusfisch/BinaryEye](https://github.com/markusfisch/BinaryEye) ([1.47.0](https://github.com/markusfisch/BinaryEye/releases/tag/1.47.0), 5 days ago) - Yet another barcode scanner for Android
 - [audacity/audacity](https://github.com/audacity/audacity) ([Audacity-3.1.3](https://github.com/audacity/audacity/releases/tag/Audacity-3.1.3), 5 days ago) - Audio Editor                                     
 - [cli/cli](https://github.com/cli/cli) ([v2.4.0](https://github.com/cli/cli/releases/tag/v2.4.0), 1 week ago) - GitHub’s official command line tool
