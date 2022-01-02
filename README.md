@@ -12,8 +12,8 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [fossdd/compiler-analyses](https://github.com/fossdd/compiler-analyses) - Mirrored from https://codeberg.org/fossdd/compiler-analyses (today)
-- [fossdd/pijul](https://github.com/fossdd/pijul) - Latest version of pijul mirrored to GitHub (3 weeks ago)
+- [fossdd/pijul](https://github.com/fossdd/pijul) - Latest version of pijul mirrored to GitHub (today)
+- [fossdd/compiler-analyses](https://github.com/fossdd/compiler-analyses) - Mirrored from https://codeberg.org/fossdd/compiler-analyses (1 day ago)
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution. (5 months ago)
 - [tenacityteam/tenacity](https://github.com/tenacityteam/tenacity) - Tenacity is an easy-to-use, privacy-friendly, FLOSS, cross-platform multi-track audio editor/recorder for Windows, macOS, Linux and other operating systems. Contributions welcome! (5 months ago)
 - [rust-random/rand](https://github.com/rust-random/rand) - A Rust library for random number generation. (5 months ago)
@@ -28,7 +28,7 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [vlang/v](https://github.com/vlang/v) ([weekly.2021.52.1](https://github.com/vlang/v/releases/tag/weekly.2021.52.1), 4 days ago) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. https://vlang.io
+- [vlang/v](https://github.com/vlang/v) ([weekly.2021.52.1](https://github.com/vlang/v/releases/tag/weekly.2021.52.1), 5 days ago) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. https://vlang.io
 - [markusfisch/BinaryEye](https://github.com/markusfisch/BinaryEye) ([1.47.0](https://github.com/markusfisch/BinaryEye/releases/tag/1.47.0), 1 week ago) - Yet another barcode scanner for Android
 - [audacity/audacity](https://github.com/audacity/audacity) ([Audacity-3.1.3](https://github.com/audacity/audacity/releases/tag/Audacity-3.1.3), 1 week ago) - Audio Editor                                     
 - [cli/cli](https://github.com/cli/cli) ([v2.4.0](https://github.com/cli/cli/releases/tag/v2.4.0), 1 week ago) - GitHub’s official command line tool
