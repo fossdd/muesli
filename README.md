@@ -28,7 +28,7 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [cli/cli](https://github.com/cli/cli) ([v2.5.0-pre3](https://github.com/cli/cli/releases/tag/v2.5.0-pre3), today) - GitHub’s official command line tool
+- [cli/cli](https://github.com/cli/cli) ([v2.5.0-pre5](https://github.com/cli/cli/releases/tag/v2.5.0-pre5), today) - GitHub’s official command line tool
 - [helix-editor/helix](https://github.com/helix-editor/helix) ([v0.6.0](https://github.com/helix-editor/helix/releases/tag/v0.6.0), 3 days ago) - A post-modern modal text editor.
 - [jenkinsci/docker-agent](https://github.com/jenkinsci/docker-agent) ([4.11.2-4](https://github.com/jenkinsci/docker-agent/releases/tag/4.11.2-4), 4 days ago) - Base Docker image for Jenkins Agents
 - [vlang/v](https://github.com/vlang/v) ([weekly.2021.52.1](https://github.com/vlang/v/releases/tag/weekly.2021.52.1), 1 week ago) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. https://vlang.io
