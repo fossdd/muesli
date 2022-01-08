@@ -12,8 +12,8 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [fossdd/pijul](https://github.com/fossdd/pijul) - Latest version of pijul mirrored to GitHub (1 day ago)
-- [fossdd/compiler-analyses](https://github.com/fossdd/compiler-analyses) - Mirrored from https://codeberg.org/fossdd/compiler-analyses (6 days ago)
+- [fossdd/pijul](https://github.com/fossdd/pijul) - Latest version of pijul mirrored to GitHub (today)
+- [fossdd/compiler-analyses](https://github.com/fossdd/compiler-analyses) - Mirrored from https://codeberg.org/fossdd/compiler-analyses (1 week ago)
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution. (5 months ago)
 - [tenacityteam/tenacity](https://github.com/tenacityteam/tenacity) - Tenacity is an easy-to-use, privacy-friendly, FLOSS, cross-platform multi-track audio editor/recorder for Windows, macOS, Linux and other operating systems. Contributions welcome! (5 months ago)
 - [rust-random/rand](https://github.com/rust-random/rand) - A Rust library for random number generation. (5 months ago)
@@ -28,10 +28,10 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [vlang/v](https://github.com/vlang/v) ([weekly.2022.01](https://github.com/vlang/v/releases/tag/weekly.2022.01), today) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. https://vlang.io
-- [cli/cli](https://github.com/cli/cli) ([v2.5.0-pre5](https://github.com/cli/cli/releases/tag/v2.5.0-pre5), today) - GitHub’s official command line tool
-- [helix-editor/helix](https://github.com/helix-editor/helix) ([v0.6.0](https://github.com/helix-editor/helix/releases/tag/v0.6.0), 3 days ago) - A post-modern modal text editor.
-- [jenkinsci/docker-agent](https://github.com/jenkinsci/docker-agent) ([4.11.2-4](https://github.com/jenkinsci/docker-agent/releases/tag/4.11.2-4), 4 days ago) - Base Docker image for Jenkins Agents
+- [vlang/v](https://github.com/vlang/v) ([weekly.2022.01](https://github.com/vlang/v/releases/tag/weekly.2022.01), 1 day ago) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. https://vlang.io
+- [cli/cli](https://github.com/cli/cli) ([v2.5.0-pre5](https://github.com/cli/cli/releases/tag/v2.5.0-pre5), 1 day ago) - GitHub’s official command line tool
+- [helix-editor/helix](https://github.com/helix-editor/helix) ([v0.6.0](https://github.com/helix-editor/helix/releases/tag/v0.6.0), 4 days ago) - A post-modern modal text editor.
+- [jenkinsci/docker-agent](https://github.com/jenkinsci/docker-agent) ([4.11.2-4](https://github.com/jenkinsci/docker-agent/releases/tag/4.11.2-4), 5 days ago) - Base Docker image for Jenkins Agents
 - [markusfisch/BinaryEye](https://github.com/markusfisch/BinaryEye) ([1.47.0](https://github.com/markusfisch/BinaryEye/releases/tag/1.47.0), 2 weeks ago) - Yet another barcode scanner for Android
 
 #### 🔨 Latest Pull Requests I published
