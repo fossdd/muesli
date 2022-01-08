@@ -13,7 +13,7 @@ of other projects. Curious what I've been hacking on recently?
 #### 👷 Check out what I'm currently working on
 
 - [fossdd/pijul](https://github.com/fossdd/pijul) - Latest version of pijul mirrored to GitHub (today)
-- [fossdd/compiler-analyses](https://github.com/fossdd/compiler-analyses) - Mirrored from https://codeberg.org/fossdd/compiler-analyses (1 week ago)
+- [fossdd/compiler-analyses](https://github.com/fossdd/compiler-analyses) - Mirrored from https://codeberg.org/fossdd/compiler-analyses (today)
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution. (5 months ago)
 - [tenacityteam/tenacity](https://github.com/tenacityteam/tenacity) - Tenacity is an easy-to-use, privacy-friendly, FLOSS, cross-platform multi-track audio editor/recorder for Windows, macOS, Linux and other operating systems. Contributions welcome! (5 months ago)
 - [rust-random/rand](https://github.com/rust-random/rand) - A Rust library for random number generation. (5 months ago)
