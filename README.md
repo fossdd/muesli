@@ -28,11 +28,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
+- [LemmurOrg/lemmur](https://github.com/LemmurOrg/lemmur) ([v0.8.0](https://github.com/LemmurOrg/lemmur/releases/tag/v0.8.0), today) - 🐒  A mobile client for lemmy
 - [schoenenberg/unixtime](https://github.com/schoenenberg/unixtime) ([0.2.2](https://github.com/schoenenberg/unixtime/releases/tag/0.2.2), 2 days ago) - A small utility for working with UNIX time.
 - [cli/cli](https://github.com/cli/cli) ([v2.5.0-pre14](https://github.com/cli/cli/releases/tag/v2.5.0-pre14), 2 days ago) - GitHub’s official command line tool
 - [UPC/ravada](https://github.com/UPC/ravada) ([v1.3.0](https://github.com/UPC/ravada/releases/tag/v1.3.0), 3 days ago) - Remote Virtual Desktops Manager
 - [vlang/v](https://github.com/vlang/v) ([weekly.2022.02](https://github.com/vlang/v/releases/tag/weekly.2022.02), 4 days ago) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. https://vlang.io
-- [ventoy/Ventoy](https://github.com/ventoy/Ventoy) ([v1.0.64](https://github.com/ventoy/Ventoy/releases/tag/v1.0.64), 6 days ago) - A new bootable USB solution.
 
 #### 🔨 Latest Pull Requests I published
 
