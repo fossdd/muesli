@@ -28,11 +28,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
+- [jenkinsci/docker-agent](https://github.com/jenkinsci/docker-agent) ([4.11.2-5](https://github.com/jenkinsci/docker-agent/releases/tag/4.11.2-5), today) - Base Docker image for Jenkins Agents
 - [cli/cli](https://github.com/cli/cli) ([v2.5.0-pre15](https://github.com/cli/cli/releases/tag/v2.5.0-pre15), 2 days ago) - GitHub’s official command line tool
 - [LemmurOrg/lemmur](https://github.com/LemmurOrg/lemmur) ([v0.8.0](https://github.com/LemmurOrg/lemmur/releases/tag/v0.8.0), 2 days ago) - 🐒  A mobile client for lemmy
 - [schoenenberg/unixtime](https://github.com/schoenenberg/unixtime) ([0.2.2](https://github.com/schoenenberg/unixtime/releases/tag/0.2.2), 4 days ago) - A small utility for working with UNIX time.
 - [UPC/ravada](https://github.com/UPC/ravada) ([v1.3.0](https://github.com/UPC/ravada/releases/tag/v1.3.0), 5 days ago) - Remote Virtual Desktops Manager
-- [vlang/v](https://github.com/vlang/v) ([weekly.2022.02](https://github.com/vlang/v/releases/tag/weekly.2022.02), 6 days ago) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. https://vlang.io
 
 #### 🔨 Latest Pull Requests I published
 
