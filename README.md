@@ -12,10 +12,10 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [fossdd/pijul](https://github.com/fossdd/pijul) - Latest version of pijul mirrored to GitHub (today)
-- [fossdd/compiler-analyses](https://github.com/fossdd/compiler-analyses) - Mirrored from https://codeberg.org/fossdd/compiler-analyses (2 days ago)
+- [fossdd/pijul](https://github.com/fossdd/pijul) - Latest version of pijul mirrored to GitHub (1 day ago)
+- [fossdd/compiler-analyses](https://github.com/fossdd/compiler-analyses) - Mirrored from https://codeberg.org/fossdd/compiler-analyses (3 days ago)
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution. (5 months ago)
-- [tenacityteam/tenacity](https://github.com/tenacityteam/tenacity) - Tenacity is an easy-to-use, privacy-friendly, FLOSS, cross-platform multi-track audio editor/recorder for Windows, macOS, Linux and other operating systems. Contributions welcome! (5 months ago)
+- [tenacityteam/tenacity](https://github.com/tenacityteam/tenacity) - Tenacity is an easy-to-use, privacy-friendly, FLOSS, cross-platform multi-track audio editor/recorder for Windows, macOS, Linux and other operating systems. Contributions welcome! (6 months ago)
 - [rust-random/rand](https://github.com/rust-random/rand) - A Rust library for random number generation. (6 months ago)
 
 #### 🌱 My latest projects
@@ -28,9 +28,9 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [vlang/v](https://github.com/vlang/v) ([weekly.2022.04](https://github.com/vlang/v/releases/tag/weekly.2022.04), today) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. https://vlang.io
-- [cli/cli](https://github.com/cli/cli) ([v9.9.9-test](https://github.com/cli/cli/releases/tag/v9.9.9-test), 3 days ago) - GitHub’s official command line tool
-- [bubelov/news](https://github.com/bubelov/news) ([preview](https://github.com/bubelov/news/releases/tag/preview), 5 days ago) - Feed reader and podcast player for for Miniflux and Nextcloud
+- [vlang/v](https://github.com/vlang/v) ([weekly.2022.04](https://github.com/vlang/v/releases/tag/weekly.2022.04), 1 day ago) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. https://vlang.io
+- [cli/cli](https://github.com/cli/cli) ([v9.9.9-test](https://github.com/cli/cli/releases/tag/v9.9.9-test), 4 days ago) - GitHub’s official command line tool
+- [bubelov/news](https://github.com/bubelov/news) ([preview](https://github.com/bubelov/news/releases/tag/preview), 6 days ago) - Feed reader and podcast player for for Miniflux and Nextcloud
 - [jenkinsci/docker-agent](https://github.com/jenkinsci/docker-agent) ([4.11.2-5](https://github.com/jenkinsci/docker-agent/releases/tag/4.11.2-5), 1 week ago) - Base Docker image for Jenkins Agents
 - [LemmurOrg/lemmur](https://github.com/LemmurOrg/lemmur) ([v0.8.0](https://github.com/LemmurOrg/lemmur/releases/tag/v0.8.0), 1 week ago) - 🐒  A mobile client for lemmy
 
