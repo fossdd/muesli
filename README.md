@@ -28,7 +28,7 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [cli/cli](https://github.com/cli/cli) ([v2.5.0-pre16](https://github.com/cli/cli/releases/tag/v2.5.0-pre16), today) - GitHub’s official command line tool
+- [cli/cli](https://github.com/cli/cli) ([v2.5.0](https://github.com/cli/cli/releases/tag/v2.5.0), today) - GitHub’s official command line tool
 - [bubelov/news](https://github.com/bubelov/news) ([preview](https://github.com/bubelov/news/releases/tag/preview), today) - Feed reader and podcast player for for Miniflux and Nextcloud
 - [vlang/v](https://github.com/vlang/v) ([weekly.2022.05](https://github.com/vlang/v/releases/tag/weekly.2022.05), 1 day ago) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. https://vlang.io
 - [jenkinsci/docker-agent](https://github.com/jenkinsci/docker-agent) ([4.11.2-5](https://github.com/jenkinsci/docker-agent/releases/tag/4.11.2-5), 2 weeks ago) - Base Docker image for Jenkins Agents
