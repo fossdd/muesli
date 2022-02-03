@@ -28,11 +28,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
+- [UPC/ravada](https://github.com/UPC/ravada) ([v1.3.2](https://github.com/UPC/ravada/releases/tag/v1.3.2), today) - Remote Virtual Desktops Manager
 - [cli/cli](https://github.com/cli/cli) ([v2.5.0](https://github.com/cli/cli/releases/tag/v2.5.0), 2 days ago) - GitHub’s official command line tool
 - [bubelov/news](https://github.com/bubelov/news) ([preview](https://github.com/bubelov/news/releases/tag/preview), 2 days ago) - Feed reader and podcast player for for Miniflux and Nextcloud
 - [vlang/v](https://github.com/vlang/v) ([weekly.2022.05](https://github.com/vlang/v/releases/tag/weekly.2022.05), 3 days ago) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. https://vlang.io
 - [jenkinsci/docker-agent](https://github.com/jenkinsci/docker-agent) ([4.11.2-5](https://github.com/jenkinsci/docker-agent/releases/tag/4.11.2-5), 2 weeks ago) - Base Docker image for Jenkins Agents
-- [LemmurOrg/lemmur](https://github.com/LemmurOrg/lemmur) ([v0.8.0](https://github.com/LemmurOrg/lemmur/releases/tag/v0.8.0), 2 weeks ago) - 🐒  A mobile client for lemmy
 
 #### 🔨 Latest Pull Requests I published
 
