@@ -28,7 +28,7 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [bubelov/news](https://github.com/bubelov/news) ([preview](https://github.com/bubelov/news/releases/tag/preview), 1 day ago) - Feed reader and podcast player for for Miniflux and Nextcloud
+- [bubelov/news](https://github.com/bubelov/news) ([preview](https://github.com/bubelov/news/releases/tag/preview), today) - Feed reader and podcast player for for Miniflux and Nextcloud
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) ([v1.0.65](https://github.com/ventoy/Ventoy/releases/tag/v1.0.65), 1 day ago) - A new bootable USB solution.
 - [UPC/ravada](https://github.com/UPC/ravada) ([v1.3.2](https://github.com/UPC/ravada/releases/tag/v1.3.2), 2 days ago) - Remote Virtual Desktops Manager
 - [cli/cli](https://github.com/cli/cli) ([v2.5.0](https://github.com/cli/cli/releases/tag/v2.5.0), 4 days ago) - GitHub’s official command line tool
