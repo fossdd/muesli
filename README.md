@@ -28,11 +28,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
+- [vlang/v](https://github.com/vlang/v) ([weekly.2022.06](https://github.com/vlang/v/releases/tag/weekly.2022.06), today) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. https://vlang.io
 - [bubelov/news](https://github.com/bubelov/news) ([preview](https://github.com/bubelov/news/releases/tag/preview), 2 days ago) - Feed reader and podcast player for for Miniflux and Nextcloud
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) ([v1.0.65](https://github.com/ventoy/Ventoy/releases/tag/v1.0.65), 3 days ago) - A new bootable USB solution.
 - [UPC/ravada](https://github.com/UPC/ravada) ([v1.3.2](https://github.com/UPC/ravada/releases/tag/v1.3.2), 4 days ago) - Remote Virtual Desktops Manager
 - [cli/cli](https://github.com/cli/cli) ([v2.5.0](https://github.com/cli/cli/releases/tag/v2.5.0), 6 days ago) - GitHub’s official command line tool
-- [vlang/v](https://github.com/vlang/v) ([weekly.2022.05](https://github.com/vlang/v/releases/tag/weekly.2022.05), 1 week ago) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. https://vlang.io
 
 #### 🔨 Latest Pull Requests I published
 
