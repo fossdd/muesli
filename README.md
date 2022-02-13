@@ -28,7 +28,7 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [bubelov/news](https://github.com/bubelov/news) ([preview](https://github.com/bubelov/news/releases/tag/preview), 4 days ago) - Feed reader and podcast player for for Miniflux and Nextcloud
+- [bubelov/news](https://github.com/bubelov/news) ([preview](https://github.com/bubelov/news/releases/tag/preview), today) - Feed reader and podcast player for for Miniflux and Nextcloud
 - [UPC/ravada](https://github.com/UPC/ravada) ([v1.3.3](https://github.com/UPC/ravada/releases/tag/v1.3.3), 5 days ago) - Remote Virtual Desktops Manager
 - [vlang/v](https://github.com/vlang/v) ([weekly.2022.06](https://github.com/vlang/v/releases/tag/weekly.2022.06), 6 days ago) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. https://vlang.io
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) ([v1.0.65](https://github.com/ventoy/Ventoy/releases/tag/v1.0.65), 1 week ago) - A new bootable USB solution.
