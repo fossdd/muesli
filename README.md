@@ -12,9 +12,9 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [fossdd/compiler-analyses](https://github.com/fossdd/compiler-analyses) - Mirrored from https://codeberg.org/fossdd/compiler-analyses (5 days ago)
-- [fossdd/pijul](https://github.com/fossdd/pijul) - Latest version of pijul mirrored to GitHub (2 weeks ago)
-- [theel0ja/foss-android](https://github.com/theel0ja/foss-android) - List of free and open-source alternatives to proprietary Android apps. (2 weeks ago)
+- [fossdd/compiler-analyses](https://github.com/fossdd/compiler-analyses) - Mirrored from https://codeberg.org/fossdd/compiler-analyses (6 days ago)
+- [fossdd/pijul](https://github.com/fossdd/pijul) - Latest version of pijul mirrored to GitHub (3 weeks ago)
+- [theel0ja/foss-android](https://github.com/theel0ja/foss-android) - List of free and open-source alternatives to proprietary Android apps. (3 weeks ago)
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution. (6 months ago)
 - [tenacityteam/tenacity](https://github.com/tenacityteam/tenacity) - Tenacity is an easy-to-use, privacy-friendly, FLOSS, cross-platform multi-track audio editor/recorder for Windows, macOS, Linux and other operating systems. Contributions welcome! (6 months ago)
 
@@ -28,10 +28,10 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [bubelov/news](https://github.com/bubelov/news) ([preview](https://github.com/bubelov/news/releases/tag/preview), today) - Feed reader and podcast player for for Miniflux and Nextcloud
-- [cli/cli](https://github.com/cli/cli) ([v2.5.1](https://github.com/cli/cli/releases/tag/v2.5.1), 2 days ago) - GitHub’s official command line tool
-- [ventoy/Ventoy](https://github.com/ventoy/Ventoy) ([v1.0.69](https://github.com/ventoy/Ventoy/releases/tag/v1.0.69), 2 days ago) - A new bootable USB solution.
-- [vlang/v](https://github.com/vlang/v) ([weekly.2022.07](https://github.com/vlang/v/releases/tag/weekly.2022.07), 3 days ago) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. https://vlang.io
+- [bubelov/news](https://github.com/bubelov/news) ([preview](https://github.com/bubelov/news/releases/tag/preview), 1 day ago) - Feed reader and podcast player for for Miniflux and Nextcloud
+- [cli/cli](https://github.com/cli/cli) ([v2.5.1](https://github.com/cli/cli/releases/tag/v2.5.1), 3 days ago) - GitHub’s official command line tool
+- [ventoy/Ventoy](https://github.com/ventoy/Ventoy) ([v1.0.69](https://github.com/ventoy/Ventoy/releases/tag/v1.0.69), 3 days ago) - A new bootable USB solution.
+- [vlang/v](https://github.com/vlang/v) ([weekly.2022.07](https://github.com/vlang/v/releases/tag/weekly.2022.07), 4 days ago) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. https://vlang.io
 - [UPC/ravada](https://github.com/UPC/ravada) ([v1.3.3](https://github.com/UPC/ravada/releases/tag/v1.3.3), 1 week ago) - Remote Virtual Desktops Manager
 
 #### 🔨 Latest Pull Requests I published
