@@ -28,7 +28,7 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [bubelov/news](https://github.com/bubelov/news) ([preview](https://github.com/bubelov/news/releases/tag/preview), today) - Feed reader and podcast player for for Miniflux and Nextcloud
+- [bubelov/news](https://github.com/bubelov/news) ([preview](https://github.com/bubelov/news/releases/tag/preview), today) - Feed Reader and Podcast Player for Android
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) ([v1.0.70](https://github.com/ventoy/Ventoy/releases/tag/v1.0.70), today) - A new bootable USB solution.
 - [cli/cli](https://github.com/cli/cli) ([v2.5.1](https://github.com/cli/cli/releases/tag/v2.5.1), 4 days ago) - GitHub’s official command line tool
 - [vlang/v](https://github.com/vlang/v) ([weekly.2022.07](https://github.com/vlang/v/releases/tag/weekly.2022.07), 5 days ago) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. https://vlang.io
