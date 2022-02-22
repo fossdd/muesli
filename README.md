@@ -12,7 +12,7 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [fossdd/compiler-analyses](https://github.com/fossdd/compiler-analyses) - Mirrored from https://codeberg.org/fossdd/compiler-analyses (2 days ago)
+- [fossdd/compiler-analyses](https://github.com/fossdd/compiler-analyses) - Mirrored from https://codeberg.org/fossdd/compiler-analyses (3 days ago)
 - [fossdd/pijul](https://github.com/fossdd/pijul) - Latest version of pijul mirrored to GitHub (3 weeks ago)
 - [theel0ja/foss-android](https://github.com/theel0ja/foss-android) - List of free and open-source alternatives to proprietary Android apps. (3 weeks ago)
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution. (6 months ago)
@@ -28,10 +28,10 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [ventoy/Ventoy](https://github.com/ventoy/Ventoy) ([v1.0.70](https://github.com/ventoy/Ventoy/releases/tag/v1.0.70), 2 days ago) - A new bootable USB solution.
-- [cli/cli](https://github.com/cli/cli) ([v2.5.1](https://github.com/cli/cli/releases/tag/v2.5.1), 6 days ago) - GitHub’s official command line tool
+- [ventoy/Ventoy](https://github.com/ventoy/Ventoy) ([v1.0.70](https://github.com/ventoy/Ventoy/releases/tag/v1.0.70), 3 days ago) - A new bootable USB solution.
+- [cli/cli](https://github.com/cli/cli) ([v2.5.1](https://github.com/cli/cli/releases/tag/v2.5.1), 1 week ago) - GitHub’s official command line tool
 - [vlang/v](https://github.com/vlang/v) ([weekly.2022.07](https://github.com/vlang/v/releases/tag/weekly.2022.07), 1 week ago) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. https://vlang.io
-- [UPC/ravada](https://github.com/UPC/ravada) ([v1.3.3](https://github.com/UPC/ravada/releases/tag/v1.3.3), 1 week ago) - Remote Virtual Desktops Manager
+- [UPC/ravada](https://github.com/UPC/ravada) ([v1.3.3](https://github.com/UPC/ravada/releases/tag/v1.3.3), 2 weeks ago) - Remote Virtual Desktops Manager
 - [jenkinsci/docker-agent](https://github.com/jenkinsci/docker-agent) ([4.11.2-5](https://github.com/jenkinsci/docker-agent/releases/tag/4.11.2-5), 1 month ago) - Base Docker image for Jenkins Agents
 
 #### 🔨 Latest Pull Requests I published
