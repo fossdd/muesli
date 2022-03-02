@@ -12,8 +12,8 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [fossdd/compiler-analyses](https://github.com/fossdd/compiler-analyses) - Mirrored from https://codeberg.org/fossdd/compiler-analyses (3 days ago)
-- [fossdd/pijul](https://github.com/fossdd/pijul) - Latest version of pijul mirrored to GitHub (6 days ago)
+- [fossdd/compiler-analyses](https://github.com/fossdd/compiler-analyses) - Mirrored from https://codeberg.org/fossdd/compiler-analyses (4 days ago)
+- [fossdd/pijul](https://github.com/fossdd/pijul) - Latest version of pijul mirrored to GitHub (1 week ago)
 - [theel0ja/foss-android](https://github.com/theel0ja/foss-android) - List of free and open-source alternatives to proprietary Android apps. (1 month ago)
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution. (7 months ago)
 - [tenacityteam/tenacity](https://github.com/tenacityteam/tenacity) - Tenacity is an easy-to-use, privacy-friendly, FLOSS, cross-platform multi-track audio editor/recorder for Windows, macOS, Linux and other operating systems. Contributions welcome! (7 months ago)
@@ -28,11 +28,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [cli/cli](https://github.com/cli/cli) ([v2.5.2](https://github.com/cli/cli/releases/tag/v2.5.2), today) - GitHub’s official command line tool
-- [vlang/v](https://github.com/vlang/v) ([weekly.2022.09](https://github.com/vlang/v/releases/tag/weekly.2022.09), 1 day ago) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. https://vlang.io
+- [vlang/v](https://github.com/vlang/v) ([weekly.2022.09](https://github.com/vlang/v/releases/tag/weekly.2022.09), 2 days ago) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. https://vlang.io
 - [UPC/ravada](https://github.com/UPC/ravada) ([v1.3.4](https://github.com/UPC/ravada/releases/tag/v1.3.4), 1 week ago) - Remote Virtual Desktops Manager
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) ([v1.0.70](https://github.com/ventoy/Ventoy/releases/tag/v1.0.70), 1 week ago) - A new bootable USB solution.
 - [jenkinsci/docker-agent](https://github.com/jenkinsci/docker-agent) ([4.11.2-5](https://github.com/jenkinsci/docker-agent/releases/tag/4.11.2-5), 1 month ago) - Base Docker image for Jenkins Agents
+- [schoenenberg/unixtime](https://github.com/schoenenberg/unixtime) ([0.2.2](https://github.com/schoenenberg/unixtime/releases/tag/0.2.2), 1 month ago) - A small utility for working with UNIX time.
 
 #### 🔨 Latest Pull Requests I published
 
