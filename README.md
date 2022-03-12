@@ -12,7 +12,7 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [fossdd/compiler-analyses](https://github.com/fossdd/compiler-analyses) - Mirrored from https://codeberg.org/fossdd/compiler-analyses (6 days ago)
+- [fossdd/compiler-analyses](https://github.com/fossdd/compiler-analyses) - Mirrored from https://codeberg.org/fossdd/compiler-analyses (1 week ago)
 - [fossdd/pijul](https://github.com/fossdd/pijul) - Latest version of pijul mirrored to GitHub (2 weeks ago)
 - [theel0ja/foss-android](https://github.com/theel0ja/foss-android) - List of free and open-source alternatives to proprietary Android apps. (1 month ago)
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution. (7 months ago)
@@ -28,11 +28,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [jenkinsci/docker-agent](https://github.com/jenkinsci/docker-agent) ([4.13-1](https://github.com/jenkinsci/docker-agent/releases/tag/4.13-1), today) - Base Docker image for Jenkins Agents
-- [markusfisch/BinaryEye](https://github.com/markusfisch/BinaryEye) ([1.48.1](https://github.com/markusfisch/BinaryEye/releases/tag/1.48.1), today) - Yet another barcode scanner for Android
-- [ventoy/Ventoy](https://github.com/ventoy/Ventoy) ([v1.0.71](https://github.com/ventoy/Ventoy/releases/tag/v1.0.71), today) - A new bootable USB solution.
-- [vlang/v](https://github.com/vlang/v) ([weekly.2022.10](https://github.com/vlang/v/releases/tag/weekly.2022.10), 3 days ago) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. https://vlang.io
+- [jenkinsci/docker-agent](https://github.com/jenkinsci/docker-agent) ([4.13-1](https://github.com/jenkinsci/docker-agent/releases/tag/4.13-1), 1 day ago) - Base Docker image for Jenkins Agents
+- [markusfisch/BinaryEye](https://github.com/markusfisch/BinaryEye) ([1.48.1](https://github.com/markusfisch/BinaryEye/releases/tag/1.48.1), 1 day ago) - Yet another barcode scanner for Android
+- [ventoy/Ventoy](https://github.com/ventoy/Ventoy) ([v1.0.71](https://github.com/ventoy/Ventoy/releases/tag/v1.0.71), 1 day ago) - A new bootable USB solution.
 - [UPC/ravada](https://github.com/UPC/ravada) ([v1.3.4](https://github.com/UPC/ravada/releases/tag/v1.3.4), 2 weeks ago) - Remote Virtual Desktops Manager
+- [schoenenberg/unixtime](https://github.com/schoenenberg/unixtime) ([0.2.2](https://github.com/schoenenberg/unixtime/releases/tag/0.2.2), 1 month ago) - A small utility for working with UNIX time.
 
 #### 🔨 Latest Pull Requests I published
 
