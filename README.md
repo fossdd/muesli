@@ -12,8 +12,8 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [fossdd/pijul](https://github.com/fossdd/pijul) - Latest version of pijul mirrored to GitHub (5 days ago)
-- [fossdd/compiler-analyses](https://github.com/fossdd/compiler-analyses) - Mirrored from https://codeberg.org/fossdd/compiler-analyses (6 days ago)
+- [fossdd/pijul](https://github.com/fossdd/pijul) - Latest version of pijul mirrored to GitHub (6 days ago)
+- [fossdd/compiler-analyses](https://github.com/fossdd/compiler-analyses) - Mirrored from https://codeberg.org/fossdd/compiler-analyses (1 week ago)
 - [theel0ja/foss-android](https://github.com/theel0ja/foss-android) - List of free and open-source alternatives to proprietary Android apps. (1 month ago)
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution. (7 months ago)
 - [tenacityteam/tenacity](https://github.com/tenacityteam/tenacity) - Tenacity is an easy-to-use, privacy-friendly, FLOSS, cross-platform multi-track audio editor/recorder for Windows, macOS, Linux and other operating systems. Contributions welcome! (7 months ago)
@@ -29,10 +29,10 @@ of other projects. Curious what I've been hacking on recently?
 #### 🔭 Latest releases I've contributed to
 
 - [jenkinsci/docker-agent](https://github.com/jenkinsci/docker-agent) ([4.13-1](https://github.com/jenkinsci/docker-agent/releases/tag/4.13-1), 1 week ago) - Base Docker image for Jenkins Agents
-- [markusfisch/BinaryEye](https://github.com/markusfisch/BinaryEye) ([1.48.1](https://github.com/markusfisch/BinaryEye/releases/tag/1.48.1), 1 week ago) - Yet another barcode scanner for Android
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) ([v1.0.71](https://github.com/ventoy/Ventoy/releases/tag/v1.0.71), 1 week ago) - A new bootable USB solution.
 - [UPC/ravada](https://github.com/UPC/ravada) ([v1.3.4](https://github.com/UPC/ravada/releases/tag/v1.3.4), 3 weeks ago) - Remote Virtual Desktops Manager
 - [schoenenberg/unixtime](https://github.com/schoenenberg/unixtime) ([0.2.2](https://github.com/schoenenberg/unixtime/releases/tag/0.2.2), 2 months ago) - A small utility for working with UNIX time.
+- [helix-editor/helix](https://github.com/helix-editor/helix) ([v0.6.0](https://github.com/helix-editor/helix/releases/tag/v0.6.0), 2 months ago) - A post-modern modal text editor.
 
 #### 🔨 Latest Pull Requests I published
 
