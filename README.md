@@ -12,10 +12,10 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [fossdd/compiler-analyses](https://github.com/fossdd/compiler-analyses) - Mirrored from https://codeberg.org/fossdd/compiler-analyses (1 day ago)
+- [fossdd/compiler-analyses](https://github.com/fossdd/compiler-analyses) - Mirrored from https://codeberg.org/fossdd/compiler-analyses (2 days ago)
 - [fossdd/pijul](https://github.com/fossdd/pijul) - Latest version of pijul mirrored to GitHub (2 weeks ago)
 - [theel0ja/foss-android](https://github.com/theel0ja/foss-android) - List of free and open-source alternatives to proprietary Android apps. (1 month ago)
-- [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution. (7 months ago)
+- [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution. (8 months ago)
 - [tenacityteam/tenacity](https://github.com/tenacityteam/tenacity) - Tenacity is an easy-to-use, privacy-friendly, FLOSS, cross-platform multi-track audio editor/recorder for Windows, macOS, Linux and other operating systems. Contributions welcome! (8 months ago)
 
 #### 🌱 My latest projects
@@ -28,7 +28,7 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [ventoy/Ventoy](https://github.com/ventoy/Ventoy) ([v1.0.72](https://github.com/ventoy/Ventoy/releases/tag/v1.0.72), 1 day ago) - A new bootable USB solution.
+- [ventoy/Ventoy](https://github.com/ventoy/Ventoy) ([v1.0.72](https://github.com/ventoy/Ventoy/releases/tag/v1.0.72), 2 days ago) - A new bootable USB solution.
 - [jenkinsci/docker-agent](https://github.com/jenkinsci/docker-agent) ([4.13-1](https://github.com/jenkinsci/docker-agent/releases/tag/4.13-1), 2 weeks ago) - Base Docker image for Jenkins Agents
 - [UPC/ravada](https://github.com/UPC/ravada) ([v1.3.4](https://github.com/UPC/ravada/releases/tag/v1.3.4), 1 month ago) - Remote Virtual Desktops Manager
 - [schoenenberg/unixtime](https://github.com/schoenenberg/unixtime) ([0.2.2](https://github.com/schoenenberg/unixtime/releases/tag/0.2.2), 2 months ago) - A small utility for working with UNIX time.
@@ -36,7 +36,7 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔨 Latest Pull Requests I published
 
-- [add 7tv to readme](https://github.com/twireapp/Twire/pull/335) on [twireapp/Twire](https://github.com/twireapp/Twire) (1 day ago)
+- [add 7tv to readme](https://github.com/twireapp/Twire/pull/335) on [twireapp/Twire](https://github.com/twireapp/Twire) (2 days ago)
 - [Fix username Label](https://github.com/ATLauncher/ATLauncher/pull/500) on [ATLauncher/ATLauncher](https://github.com/ATLauncher/ATLauncher) (7 months ago)
 - [Allow to reverse the unix timestamp back.](https://github.com/schoenenberg/unixtime/pull/4) on [schoenenberg/unixtime](https://github.com/schoenenberg/unixtime) (8 months ago)
 - [Enhance index.html](https://github.com/Sosasees/tenacity-webpage/pull/1) on [Sosasees/tenacity-webpage](https://github.com/Sosasees/tenacity-webpage) (8 months ago)
