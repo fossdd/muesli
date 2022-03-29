@@ -28,9 +28,9 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
+- [UPC/ravada](https://github.com/UPC/ravada) ([v1.4.0](https://github.com/UPC/ravada/releases/tag/v1.4.0), today) - Remote Virtual Desktops Manager
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) ([v1.0.72](https://github.com/ventoy/Ventoy/releases/tag/v1.0.72), 3 days ago) - A new bootable USB solution.
 - [jenkinsci/docker-agent](https://github.com/jenkinsci/docker-agent) ([4.13-1](https://github.com/jenkinsci/docker-agent/releases/tag/4.13-1), 2 weeks ago) - Base Docker image for Jenkins Agents
-- [UPC/ravada](https://github.com/UPC/ravada) ([v1.3.4](https://github.com/UPC/ravada/releases/tag/v1.3.4), 1 month ago) - Remote Virtual Desktops Manager
 - [schoenenberg/unixtime](https://github.com/schoenenberg/unixtime) ([0.2.2](https://github.com/schoenenberg/unixtime/releases/tag/0.2.2), 2 months ago) - A small utility for working with UNIX time.
 - [helix-editor/helix](https://github.com/helix-editor/helix) ([v0.6.0](https://github.com/helix-editor/helix/releases/tag/v0.6.0), 2 months ago) - A post-modern modal text editor.
 
