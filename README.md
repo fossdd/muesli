@@ -12,7 +12,7 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [fossdd/compiler-analyses](https://github.com/fossdd/compiler-analyses) - Mirrored from https://codeberg.org/fossdd/compiler-analyses (6 days ago)
+- [fossdd/compiler-analyses](https://github.com/fossdd/compiler-analyses) - Mirrored from https://codeberg.org/fossdd/compiler-analyses (1 week ago)
 - [fossdd/pijul](https://github.com/fossdd/pijul) - Latest version of pijul mirrored to GitHub (2 weeks ago)
 - [theel0ja/foss-android](https://github.com/theel0ja/foss-android) - List of free and open-source alternatives to proprietary Android apps. (2 months ago)
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution. (8 months ago)
@@ -28,15 +28,15 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [helix-editor/helix](https://github.com/helix-editor/helix) ([22.03](https://github.com/helix-editor/helix/releases/tag/22.03), 3 days ago) - A post-modern modal text editor.
-- [UPC/ravada](https://github.com/UPC/ravada) ([v1.4.0](https://github.com/UPC/ravada/releases/tag/v1.4.0), 3 days ago) - Remote Virtual Desktops Manager
-- [ventoy/Ventoy](https://github.com/ventoy/Ventoy) ([v1.0.72](https://github.com/ventoy/Ventoy/releases/tag/v1.0.72), 6 days ago) - A new bootable USB solution.
+- [helix-editor/helix](https://github.com/helix-editor/helix) ([22.03](https://github.com/helix-editor/helix/releases/tag/22.03), 4 days ago) - A post-modern modal text editor.
+- [UPC/ravada](https://github.com/UPC/ravada) ([v1.4.0](https://github.com/UPC/ravada/releases/tag/v1.4.0), 4 days ago) - Remote Virtual Desktops Manager
+- [ventoy/Ventoy](https://github.com/ventoy/Ventoy) ([v1.0.72](https://github.com/ventoy/Ventoy/releases/tag/v1.0.72), 1 week ago) - A new bootable USB solution.
 - [jenkinsci/docker-agent](https://github.com/jenkinsci/docker-agent) ([4.13-1](https://github.com/jenkinsci/docker-agent/releases/tag/4.13-1), 3 weeks ago) - Base Docker image for Jenkins Agents
 - [schoenenberg/unixtime](https://github.com/schoenenberg/unixtime) ([0.2.2](https://github.com/schoenenberg/unixtime/releases/tag/0.2.2), 2 months ago) - A small utility for working with UNIX time.
 
 #### 🔨 Latest Pull Requests I published
 
-- [add 7tv to readme](https://github.com/twireapp/Twire/pull/335) on [twireapp/Twire](https://github.com/twireapp/Twire) (6 days ago)
+- [add 7tv to readme](https://github.com/twireapp/Twire/pull/335) on [twireapp/Twire](https://github.com/twireapp/Twire) (1 week ago)
 - [Fix username Label](https://github.com/ATLauncher/ATLauncher/pull/500) on [ATLauncher/ATLauncher](https://github.com/ATLauncher/ATLauncher) (7 months ago)
 - [Allow to reverse the unix timestamp back.](https://github.com/schoenenberg/unixtime/pull/4) on [schoenenberg/unixtime](https://github.com/schoenenberg/unixtime) (8 months ago)
 - [Enhance index.html](https://github.com/Sosasees/tenacity-webpage/pull/1) on [Sosasees/tenacity-webpage](https://github.com/Sosasees/tenacity-webpage) (8 months ago)
