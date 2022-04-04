@@ -12,7 +12,7 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [fossdd/compiler-analyses](https://github.com/fossdd/compiler-analyses) - Mirrored from https://codeberg.org/fossdd/compiler-analyses (1 day ago)
+- [fossdd/compiler-analyses](https://github.com/fossdd/compiler-analyses) - Mirrored from https://codeberg.org/fossdd/compiler-analyses (2 days ago)
 - [fossdd/pijul](https://github.com/fossdd/pijul) - Latest version of pijul mirrored to GitHub (3 weeks ago)
 - [theel0ja/foss-android](https://github.com/theel0ja/foss-android) - List of free and open-source alternatives to proprietary Android apps. (2 months ago)
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution. (8 months ago)
@@ -28,8 +28,8 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [helix-editor/helix](https://github.com/helix-editor/helix) ([22.03](https://github.com/helix-editor/helix/releases/tag/22.03), 5 days ago) - A post-modern modal text editor.
-- [UPC/ravada](https://github.com/UPC/ravada) ([v1.4.0](https://github.com/UPC/ravada/releases/tag/v1.4.0), 5 days ago) - Remote Virtual Desktops Manager
+- [helix-editor/helix](https://github.com/helix-editor/helix) ([22.03](https://github.com/helix-editor/helix/releases/tag/22.03), 6 days ago) - A post-modern modal text editor.
+- [UPC/ravada](https://github.com/UPC/ravada) ([v1.4.0](https://github.com/UPC/ravada/releases/tag/v1.4.0), 6 days ago) - Remote Virtual Desktops Manager
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) ([v1.0.72](https://github.com/ventoy/Ventoy/releases/tag/v1.0.72), 1 week ago) - A new bootable USB solution.
 - [jenkinsci/docker-agent](https://github.com/jenkinsci/docker-agent) ([4.13-1](https://github.com/jenkinsci/docker-agent/releases/tag/4.13-1), 3 weeks ago) - Base Docker image for Jenkins Agents
 - [schoenenberg/unixtime](https://github.com/schoenenberg/unixtime) ([0.2.2](https://github.com/schoenenberg/unixtime/releases/tag/0.2.2), 2 months ago) - A small utility for working with UNIX time.
