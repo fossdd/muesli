@@ -12,8 +12,8 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [fossdd/compiler-analyses](https://github.com/fossdd/compiler-analyses) - Mirrored from https://codeberg.org/fossdd/compiler-analyses (5 days ago)
-- [fossdd/pijul](https://github.com/fossdd/pijul) - Latest version of pijul mirrored to GitHub (1 month ago)
+- [fossdd/pijul](https://github.com/fossdd/pijul) - Latest version of pijul mirrored to GitHub (today)
+- [fossdd/compiler-analyses](https://github.com/fossdd/compiler-analyses) - Mirrored from https://codeberg.org/fossdd/compiler-analyses (6 days ago)
 - [theel0ja/foss-android](https://github.com/theel0ja/foss-android) - List of free and open-source alternatives to proprietary Android apps. (2 months ago)
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution. (8 months ago)
 - [tenacityteam/tenacity](https://github.com/tenacityteam/tenacity) - Tenacity is an easy-to-use, privacy-friendly, FLOSS, cross-platform multi-track audio editor/recorder for Windows, macOS, Linux and other operating systems. Contributions welcome! (8 months ago)
@@ -44,7 +44,7 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 📜 My recent blog posts
 
-- [Self-hosting VSCode](https://fribbledom.com/posts/selfhosting-vscode/) (9 months ago)
+- [Self-hosting VSCode](https://fribbledom.com/posts/selfhosting-vscode/) (10 months ago)
 - [Installing Arch Linux with Full Disk Encryption](https://fribbledom.com/posts/encrypted-arch-install/) (2 years ago)
 - [Remotely Installing a Fully-Encrypted Debian Server](https://fribbledom.com/posts/encrypted-remote-debian-install/) (3 years ago)
 - [Gamut, a Go Package to Manage Color Palettes](https://fribbledom.com/posts/gamut-package-to-handle-color-palettes/) (3 years ago)
