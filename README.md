@@ -28,9 +28,9 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
+- [jenkinsci/docker-agent](https://github.com/jenkinsci/docker-agent) ([4.13-2](https://github.com/jenkinsci/docker-agent/releases/tag/4.13-2), today) - Base Docker image for Jenkins Agents
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) ([v1.0.73](https://github.com/ventoy/Ventoy/releases/tag/v1.0.73), 2 weeks ago) - A new bootable USB solution.
 - [helix-editor/helix](https://github.com/helix-editor/helix) ([22.03](https://github.com/helix-editor/helix/releases/tag/22.03), 3 weeks ago) - A post-modern modal text editor.
-- [jenkinsci/docker-agent](https://github.com/jenkinsci/docker-agent) ([4.13-1](https://github.com/jenkinsci/docker-agent/releases/tag/4.13-1), 1 month ago) - Base Docker image for Jenkins Agents
 - [audacity/audacity](https://github.com/audacity/audacity) ([Audacity-3.1.3](https://github.com/audacity/audacity/releases/tag/Audacity-3.1.3), 3 months ago) - Audio Editor                                     
 - [fossdd/action-setup-pijul](https://github.com/fossdd/action-setup-pijul) ([v1](https://github.com/fossdd/action-setup-pijul/releases/tag/v1), 10 months ago) - Set up your GitHub Actions workflow with Pijul
 
