@@ -12,19 +12,19 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
+- [fossdd/wao-tracklist](https://github.com/fossdd/wao-tracklist) - Tracklist of nearly every played WeAreOne track (today)
 - [fossdd/compiler-analyses](https://github.com/fossdd/compiler-analyses) - Mirrored from https://codeberg.org/fossdd/compiler-analyses (today)
 - [fossdd/pijul](https://github.com/fossdd/pijul) - Latest version of pijul mirrored to GitHub (today)
 - [twireapp/Twire](https://github.com/twireapp/Twire) - Twire is an alternative and open source Twitch client for Android (1 month ago)
 - [theel0ja/foss-android](https://github.com/theel0ja/foss-android) - List of free and open-source alternatives to proprietary Android apps. (3 months ago)
-- [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution. (9 months ago)
 
 #### 🌱 My latest projects
 
 - [fossdd/test2](https://github.com/fossdd/test2) - 
 - [fossdd/action-setup-pijul](https://github.com/fossdd/action-setup-pijul) - Set up your GitHub Actions workflow with Pijul
 - [fossdd/pijul](https://github.com/fossdd/pijul) - Latest version of pijul mirrored to GitHub
+- [fossdd/wao-tracklist](https://github.com/fossdd/wao-tracklist) - Tracklist of nearly every played WeAreOne track
 - [fossdd/compiler-analyses](https://github.com/fossdd/compiler-analyses) - Mirrored from https://codeberg.org/fossdd/compiler-analyses
-- [fossdd/sh2v](https://github.com/fossdd/sh2v) - Translator from shell to V scripts - Mirror from https://codeberg.org/fossdd/sh2v
 
 #### 🔭 Latest releases I've contributed to
 
