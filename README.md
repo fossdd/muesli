@@ -12,9 +12,9 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [fossdd/wao-tracklist](https://github.com/fossdd/wao-tracklist) - Tracklist of nearly every played WeAreOne track (3 days ago)
-- [fossdd/compiler-analyses](https://github.com/fossdd/compiler-analyses) - Mirrored from https://codeberg.org/fossdd/compiler-analyses (3 days ago)
-- [fossdd/pijul](https://github.com/fossdd/pijul) - Latest version of pijul mirrored to GitHub (3 days ago)
+- [fossdd/wao-tracklist](https://github.com/fossdd/wao-tracklist) - Tracklist of nearly every played WeAreOne track (4 days ago)
+- [fossdd/compiler-analyses](https://github.com/fossdd/compiler-analyses) - Mirrored from https://codeberg.org/fossdd/compiler-analyses (4 days ago)
+- [fossdd/pijul](https://github.com/fossdd/pijul) - Latest version of pijul mirrored to GitHub (4 days ago)
 - [twireapp/Twire](https://github.com/twireapp/Twire) - Twire is an alternative and open source Twitch client for Android (1 month ago)
 - [theel0ja/foss-android](https://github.com/theel0ja/foss-android) - List of free and open-source alternatives to proprietary Android apps. (3 months ago)
 
@@ -29,7 +29,7 @@ of other projects. Curious what I've been hacking on recently?
 #### 🔭 Latest releases I've contributed to
 
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) ([v1.0.74](https://github.com/ventoy/Ventoy/releases/tag/v1.0.74), 1 week ago) - A new bootable USB solution.
-- [jenkinsci/docker-agent](https://github.com/jenkinsci/docker-agent) ([4.13-2](https://github.com/jenkinsci/docker-agent/releases/tag/4.13-2), 2 weeks ago) - Base Docker image for Jenkins Agents
+- [jenkinsci/docker-agent](https://github.com/jenkinsci/docker-agent) ([4.13-2](https://github.com/jenkinsci/docker-agent/releases/tag/4.13-2), 3 weeks ago) - Base Docker image for Jenkins Agents
 - [helix-editor/helix](https://github.com/helix-editor/helix) ([22.03](https://github.com/helix-editor/helix/releases/tag/22.03), 1 month ago) - A post-modern modal text editor.
 - [twireapp/Twire](https://github.com/twireapp/Twire) ([v2.10.2](https://github.com/twireapp/Twire/releases/tag/v2.10.2), 2 months ago) - Twire is an alternative and open source Twitch client for Android
 - [audacity/audacity](https://github.com/audacity/audacity) ([Audacity-3.1.3](https://github.com/audacity/audacity/releases/tag/Audacity-3.1.3), 4 months ago) - Audio Editor                                     
@@ -45,7 +45,7 @@ of other projects. Curious what I've been hacking on recently?
 #### 📜 My recent blog posts
 
 - [Self-hosting VSCode](https://fribbledom.com/posts/selfhosting-vscode/) (10 months ago)
-- [Installing Arch Linux with Full Disk Encryption](https://fribbledom.com/posts/encrypted-arch-install/) (2 years ago)
+- [Installing Arch Linux with Full Disk Encryption](https://fribbledom.com/posts/encrypted-arch-install/) (3 years ago)
 - [Remotely Installing a Fully-Encrypted Debian Server](https://fribbledom.com/posts/encrypted-remote-debian-install/) (3 years ago)
 - [Gamut, a Go Package to Manage Color Palettes](https://fribbledom.com/posts/gamut-package-to-handle-color-palettes/) (3 years ago)
 - [An Algorithm to Generate Color Palettes](https://fribbledom.com/posts/an-algorithm-to-generate-color-palettes/) (4 years ago)
