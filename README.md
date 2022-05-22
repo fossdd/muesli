@@ -12,8 +12,8 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [fossdd/wao-tracklist](https://github.com/fossdd/wao-tracklist) - Tracklist of nearly every played WeAreOne track (today)
-- [fossdd/compiler-analyses](https://github.com/fossdd/compiler-analyses) - Mirrored from https://codeberg.org/fossdd/compiler-analyses (today)
+- [fossdd/wao-tracklist](https://github.com/fossdd/wao-tracklist) - Tracklist of nearly every played WeAreOne track (1 day ago)
+- [fossdd/compiler-analyses](https://github.com/fossdd/compiler-analyses) - Mirrored from https://codeberg.org/fossdd/compiler-analyses (1 day ago)
 - [fossdd/pijul](https://github.com/fossdd/pijul) - Latest version of pijul mirrored to GitHub (1 week ago)
 - [twireapp/Twire](https://github.com/twireapp/Twire) - Twire is an alternative and open source Twitch client for Android (1 month ago)
 - [theel0ja/foss-android](https://github.com/theel0ja/foss-android) - List of free and open-source alternatives to proprietary Android apps. (3 months ago)
@@ -32,15 +32,15 @@ of other projects. Curious what I've been hacking on recently?
 - [jenkinsci/docker-agent](https://github.com/jenkinsci/docker-agent) ([4.13-2](https://github.com/jenkinsci/docker-agent/releases/tag/4.13-2), 1 month ago) - Base Docker image for Jenkins Agents
 - [helix-editor/helix](https://github.com/helix-editor/helix) ([22.03](https://github.com/helix-editor/helix/releases/tag/22.03), 1 month ago) - A post-modern modal text editor.
 - [twireapp/Twire](https://github.com/twireapp/Twire) ([v2.10.2](https://github.com/twireapp/Twire/releases/tag/v2.10.2), 2 months ago) - Twire is an alternative and open source Twitch client for Android
-- [audacity/audacity](https://github.com/audacity/audacity) ([Audacity-3.1.3](https://github.com/audacity/audacity/releases/tag/Audacity-3.1.3), 4 months ago) - Audio Editor                                     
+- [audacity/audacity](https://github.com/audacity/audacity) ([Audacity-3.1.3](https://github.com/audacity/audacity/releases/tag/Audacity-3.1.3), 5 months ago) - Audio Editor                                     
 
 #### 🔨 Latest Pull Requests I published
 
 - [add 7tv to readme](https://github.com/twireapp/Twire/pull/335) on [twireapp/Twire](https://github.com/twireapp/Twire) (1 month ago)
 - [Fix username Label](https://github.com/ATLauncher/ATLauncher/pull/500) on [ATLauncher/ATLauncher](https://github.com/ATLauncher/ATLauncher) (9 months ago)
 - [Allow to reverse the unix timestamp back.](https://github.com/schoenenberg/unixtime/pull/4) on [schoenenberg/unixtime](https://github.com/schoenenberg/unixtime) (9 months ago)
-- [Enhance index.html](https://github.com/Sosasees/tenacity-webpage/pull/1) on [Sosasees/tenacity-webpage](https://github.com/Sosasees/tenacity-webpage) (9 months ago)
-- [Remove notice by Apache License Authors](https://github.com/rust-random/rand/pull/1151) on [rust-random/rand](https://github.com/rust-random/rand) (9 months ago)
+- [Enhance index.html](https://github.com/Sosasees/tenacity-webpage/pull/1) on [Sosasees/tenacity-webpage](https://github.com/Sosasees/tenacity-webpage) (10 months ago)
+- [Remove notice by Apache License Authors](https://github.com/rust-random/rand/pull/1151) on [rust-random/rand](https://github.com/rust-random/rand) (10 months ago)
 
 #### 📜 My recent blog posts
 
