@@ -12,8 +12,8 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [fossdd/wao-tracklist](https://github.com/fossdd/wao-tracklist) - Tracklist of nearly every played WeAreOne track (today)
-- [fossdd/compiler-analyses](https://github.com/fossdd/compiler-analyses) - Mirrored from https://codeberg.org/fossdd/compiler-analyses (today)
+- [fossdd/wao-tracklist](https://github.com/fossdd/wao-tracklist) - Tracklist of nearly every played WeAreOne track (1 day ago)
+- [fossdd/compiler-analyses](https://github.com/fossdd/compiler-analyses) - Mirrored from https://codeberg.org/fossdd/compiler-analyses (1 day ago)
 - [fossdd/pijul](https://github.com/fossdd/pijul) - Latest version of pijul mirrored to GitHub (1 month ago)
 - [twireapp/Twire](https://github.com/twireapp/Twire) - Twire is an alternative and open source Twitch client for Android (2 months ago)
 - [theel0ja/foss-android](https://github.com/theel0ja/foss-android) - List of free and open-source alternatives to proprietary Android apps. (4 months ago)
@@ -28,9 +28,9 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [ventoy/Ventoy](https://github.com/ventoy/Ventoy) ([v1.0.76](https://github.com/ventoy/Ventoy/releases/tag/v1.0.76), 6 days ago) - A new bootable USB solution.
+- [ventoy/Ventoy](https://github.com/ventoy/Ventoy) ([v1.0.76](https://github.com/ventoy/Ventoy/releases/tag/v1.0.76), 1 week ago) - A new bootable USB solution.
 - [helix-editor/helix](https://github.com/helix-editor/helix) ([22.05](https://github.com/helix-editor/helix/releases/tag/22.05), 3 weeks ago) - A post-modern modal text editor.
-- [jenkinsci/docker-agent](https://github.com/jenkinsci/docker-agent) ([4.13-2](https://github.com/jenkinsci/docker-agent/releases/tag/4.13-2), 1 month ago) - Base Docker image for Jenkins Agents
+- [jenkinsci/docker-agent](https://github.com/jenkinsci/docker-agent) ([4.13-2](https://github.com/jenkinsci/docker-agent/releases/tag/4.13-2), 2 months ago) - Base Docker image for Jenkins Agents
 - [twireapp/Twire](https://github.com/twireapp/Twire) ([v2.10.2](https://github.com/twireapp/Twire/releases/tag/v2.10.2), 3 months ago) - Twire is an alternative and open source Twitch client for Android
 - [audacity/audacity](https://github.com/audacity/audacity) ([Audacity-3.1.3](https://github.com/audacity/audacity/releases/tag/Audacity-3.1.3), 5 months ago) - Audio Editor                                     
 
@@ -46,7 +46,7 @@ of other projects. Curious what I've been hacking on recently?
 
 - [Self-hosting VSCode](https://fribbledom.com/posts/selfhosting-vscode/) (1 year ago)
 - [Installing Arch Linux with Full Disk Encryption](https://fribbledom.com/posts/encrypted-arch-install/) (3 years ago)
-- [Remotely Installing a Fully-Encrypted Debian Server](https://fribbledom.com/posts/encrypted-remote-debian-install/) (3 years ago)
+- [Remotely Installing a Fully-Encrypted Debian Server](https://fribbledom.com/posts/encrypted-remote-debian-install/) (4 years ago)
 - [Gamut, a Go Package to Manage Color Palettes](https://fribbledom.com/posts/gamut-package-to-handle-color-palettes/) (4 years ago)
 - [An Algorithm to Generate Color Palettes](https://fribbledom.com/posts/an-algorithm-to-generate-color-palettes/) (4 years ago)
 
