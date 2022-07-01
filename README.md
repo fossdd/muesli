@@ -28,7 +28,7 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [ventoy/Ventoy](https://github.com/ventoy/Ventoy) ([v1.0.77](https://github.com/ventoy/Ventoy/releases/tag/v1.0.77), 1 week ago) - A new bootable USB solution.
+- [ventoy/Ventoy](https://github.com/ventoy/Ventoy) ([v1.0.78](https://github.com/ventoy/Ventoy/releases/tag/v1.0.78), today) - A new bootable USB solution.
 - [helix-editor/helix](https://github.com/helix-editor/helix) ([22.05](https://github.com/helix-editor/helix/releases/tag/22.05), 1 month ago) - A post-modern modal text editor.
 - [jenkinsci/docker-agent](https://github.com/jenkinsci/docker-agent) ([4.13-2](https://github.com/jenkinsci/docker-agent/releases/tag/4.13-2), 2 months ago) - Base Docker image for Jenkins Agents
 - [twireapp/Twire](https://github.com/twireapp/Twire) ([v2.10.2](https://github.com/twireapp/Twire/releases/tag/v2.10.2), 4 months ago) - Twire is an alternative and open source Twitch client for Android
