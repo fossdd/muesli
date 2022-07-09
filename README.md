@@ -12,8 +12,8 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [fossdd/wao-tracklist](https://github.com/fossdd/wao-tracklist) - Tracklist of nearly every played WeAreOne track (6 days ago)
-- [fossdd/compiler-analyses](https://github.com/fossdd/compiler-analyses) - Mirrored from https://codeberg.org/fossdd/compiler-analyses (6 days ago)
+- [fossdd/wao-tracklist](https://github.com/fossdd/wao-tracklist) - Tracklist of nearly every played WeAreOne track (1 week ago)
+- [fossdd/compiler-analyses](https://github.com/fossdd/compiler-analyses) - Mirrored from https://codeberg.org/fossdd/compiler-analyses (1 week ago)
 - [fossdd/pijul](https://github.com/fossdd/pijul) - Latest version of pijul mirrored to GitHub (1 month ago)
 - [twireapp/Twire](https://github.com/twireapp/Twire) - Twire is an alternative and open source Twitch client for Android (3 months ago)
 - [theel0ja/foss-android](https://github.com/theel0ja/foss-android) - List of free and open-source alternatives to proprietary Android apps. (5 months ago)
@@ -28,7 +28,7 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [sonic-pi-net/sonic-pi](https://github.com/sonic-pi-net/sonic-pi) ([v4.0.0](https://github.com/sonic-pi-net/sonic-pi/releases/tag/v4.0.0), 2 days ago) - Code. Music. Live.
+- [sonic-pi-net/sonic-pi](https://github.com/sonic-pi-net/sonic-pi) ([v4.0.0](https://github.com/sonic-pi-net/sonic-pi/releases/tag/v4.0.0), 3 days ago) - Code. Music. Live.
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) ([v1.0.78](https://github.com/ventoy/Ventoy/releases/tag/v1.0.78), 1 week ago) - A new bootable USB solution.
 - [helix-editor/helix](https://github.com/helix-editor/helix) ([22.05](https://github.com/helix-editor/helix/releases/tag/22.05), 1 month ago) - A post-modern modal text editor.
 - [jenkinsci/docker-agent](https://github.com/jenkinsci/docker-agent) ([4.13-2](https://github.com/jenkinsci/docker-agent/releases/tag/4.13-2), 2 months ago) - Base Docker image for Jenkins Agents
