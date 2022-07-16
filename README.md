@@ -32,7 +32,6 @@ of other projects. Curious what I've been hacking on recently?
 - [twireapp/Twire](https://github.com/twireapp/Twire) ([v2.10.3](https://github.com/twireapp/Twire/releases/tag/v2.10.3), 1 day ago) - Twire is an alternative and open source Twitch client for Android
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) ([v1.0.78](https://github.com/ventoy/Ventoy/releases/tag/v1.0.78), 2 weeks ago) - A new bootable USB solution.
 - [helix-editor/helix](https://github.com/helix-editor/helix) ([22.05](https://github.com/helix-editor/helix/releases/tag/22.05), 1 month ago) - A post-modern modal text editor.
-- [audacity/audacity](https://github.com/audacity/audacity) ([Audacity-3.1.3](https://github.com/audacity/audacity/releases/tag/Audacity-3.1.3), 6 months ago) - Audio Editor                                     
 
 #### 🔨 Latest Pull Requests I published
 
