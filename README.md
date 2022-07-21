@@ -28,7 +28,6 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [sonic-pi-net/sonic-pi](https://github.com/sonic-pi-net/sonic-pi) ([v4.0.3](https://github.com/sonic-pi-net/sonic-pi/releases/tag/v4.0.3), 3 days ago) - Code. Music. Live.
 - [twireapp/Twire](https://github.com/twireapp/Twire) ([v2.10.3](https://github.com/twireapp/Twire/releases/tag/v2.10.3), 6 days ago) - Twire is an alternative and open source Twitch client for Android
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) ([v1.0.78](https://github.com/ventoy/Ventoy/releases/tag/v1.0.78), 2 weeks ago) - A new bootable USB solution.
 - [helix-editor/helix](https://github.com/helix-editor/helix) ([22.05](https://github.com/helix-editor/helix/releases/tag/22.05), 1 month ago) - A post-modern modal text editor.
