@@ -12,8 +12,8 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [fossdd/wao-tracklist](https://github.com/fossdd/wao-tracklist) - Tracklist of nearly every played WeAreOne track (5 days ago)
-- [fossdd/compiler-analyses](https://github.com/fossdd/compiler-analyses) - Mirrored from https://codeberg.org/fossdd/compiler-analyses (5 days ago)
+- [fossdd/wao-tracklist](https://github.com/fossdd/wao-tracklist) - Tracklist of nearly every played WeAreOne track (6 days ago)
+- [fossdd/compiler-analyses](https://github.com/fossdd/compiler-analyses) - Mirrored from https://codeberg.org/fossdd/compiler-analyses (6 days ago)
 - [fossdd/pijul](https://github.com/fossdd/pijul) - Latest version of pijul mirrored to GitHub (2 months ago)
 - [twireapp/Twire](https://github.com/twireapp/Twire) - Twire is an alternative and open source Twitch client for Android (3 months ago)
 - [theel0ja/foss-android](https://github.com/theel0ja/foss-android) - List of free and open-source alternatives to proprietary Android apps. (5 months ago)
@@ -28,8 +28,8 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [twireapp/Twire](https://github.com/twireapp/Twire) ([v2.10.3](https://github.com/twireapp/Twire/releases/tag/v2.10.3), 6 days ago) - Twire is an alternative and open source Twitch client for Android
-- [ventoy/Ventoy](https://github.com/ventoy/Ventoy) ([v1.0.78](https://github.com/ventoy/Ventoy/releases/tag/v1.0.78), 2 weeks ago) - A new bootable USB solution.
+- [twireapp/Twire](https://github.com/twireapp/Twire) ([v2.10.3](https://github.com/twireapp/Twire/releases/tag/v2.10.3), 1 week ago) - Twire is an alternative and open source Twitch client for Android
+- [ventoy/Ventoy](https://github.com/ventoy/Ventoy) ([v1.0.78](https://github.com/ventoy/Ventoy/releases/tag/v1.0.78), 3 weeks ago) - A new bootable USB solution.
 - [helix-editor/helix](https://github.com/helix-editor/helix) ([22.05](https://github.com/helix-editor/helix/releases/tag/22.05), 1 month ago) - A post-modern modal text editor.
 
 #### 🔨 Latest Pull Requests I published
