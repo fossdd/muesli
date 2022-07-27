@@ -28,7 +28,7 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [twireapp/Twire](https://github.com/twireapp/Twire) ([v2.10.3](https://github.com/twireapp/Twire/releases/tag/v2.10.3), 1 week ago) - Twire is an alternative and open source Twitch client for Android
+- [twireapp/Twire](https://github.com/twireapp/Twire) ([v2.10.4](https://github.com/twireapp/Twire/releases/tag/v2.10.4), today) - Twire is an alternative and open source Twitch client for Android
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) ([v1.0.78](https://github.com/ventoy/Ventoy/releases/tag/v1.0.78), 3 weeks ago) - A new bootable USB solution.
 
 #### 🔨 Latest Pull Requests I published
