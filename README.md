@@ -20,11 +20,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🌱 My latest projects
 
+- [fossdd/tenacity-webpage](https://github.com/fossdd/tenacity-webpage) - A working prototype I made for a possible redesign of the Tenacity website.
 - [fossdd/test2](https://github.com/fossdd/test2) - 
 - [fossdd/action-setup-pijul](https://github.com/fossdd/action-setup-pijul) - Set up your GitHub Actions workflow with Pijul
 - [fossdd/pijul](https://github.com/fossdd/pijul) - Latest version of pijul mirrored to GitHub
 - [fossdd/wao-tracklist](https://github.com/fossdd/wao-tracklist) - Tracklist of nearly every played WeAreOne track
-- [fossdd/compiler-analyses](https://github.com/fossdd/compiler-analyses) - Mirrored from https://codeberg.org/fossdd/compiler-analyses
 
 #### 🔭 Latest releases I've contributed to
 
@@ -35,8 +35,8 @@ of other projects. Curious what I've been hacking on recently?
 - [add 7tv to readme](https://github.com/twireapp/Twire/pull/335) on [twireapp/Twire](https://github.com/twireapp/Twire) (9 months ago)
 - [Fix username Label](https://github.com/ATLauncher/ATLauncher/pull/500) on [ATLauncher/ATLauncher](https://github.com/ATLauncher/ATLauncher) (1 year ago)
 - [Allow to reverse the unix timestamp back.](https://github.com/schoenenberg/unixtime/pull/4) on [schoenenberg/unixtime](https://github.com/schoenenberg/unixtime) (1 year ago)
-- [Enhance index.html](https://github.com/Sosasees/tenacity-webpage/pull/1) on [Sosasees/tenacity-webpage](https://github.com/Sosasees/tenacity-webpage) (1 year ago)
 - [Remove notice by Apache License Authors](https://github.com/rust-random/rand/pull/1151) on [rust-random/rand](https://github.com/rust-random/rand) (1 year ago)
+- [Fix typos in README.md](https://github.com/m-242/vitric/pull/1) on [m-242/vitric](https://github.com/m-242/vitric) (1 year ago)
 
 #### 📜 My recent blog posts
 
