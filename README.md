@@ -28,7 +28,7 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [twireapp/Twire](https://github.com/twireapp/Twire) ([v2.10.4](https://github.com/twireapp/Twire/releases/tag/v2.10.4), 5 months ago) - Twire is an alternative and open source Twitch client for Android
+- [twireapp/Twire](https://github.com/twireapp/Twire) ([v2.10.5](https://github.com/twireapp/Twire/releases/tag/v2.10.5), today) - Twire is an alternative and open source Twitch client for Android
 
 #### 🔨 Latest Pull Requests I published
 
