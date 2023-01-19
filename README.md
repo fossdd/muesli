@@ -12,8 +12,8 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [fossdd/wao-tracklist](https://github.com/fossdd/wao-tracklist) - Tracklist of nearly every played WeAreOne track (4 days ago)
-- [fossdd/compiler-analyses](https://github.com/fossdd/compiler-analyses) - Mirrored from https://codeberg.org/fossdd/compiler-analyses (4 days ago)
+- [fossdd/wao-tracklist](https://github.com/fossdd/wao-tracklist) - Tracklist of nearly every played WeAreOne track (5 days ago)
+- [fossdd/compiler-analyses](https://github.com/fossdd/compiler-analyses) - Mirrored from https://codeberg.org/fossdd/compiler-analyses (5 days ago)
 - [fossdd/pijul](https://github.com/fossdd/pijul) - Latest version of pijul mirrored to GitHub (8 months ago)
 - [twireapp/Twire](https://github.com/twireapp/Twire) - Twire is an alternative and open source Twitch client for Android (9 months ago)
 - [theel0ja/foss-android](https://github.com/theel0ja/foss-android) - List of free and open-source alternatives to proprietary Android apps. (11 months ago)
@@ -34,7 +34,7 @@ of other projects. Curious what I've been hacking on recently?
 
 - [add 7tv to readme](https://github.com/twireapp/Twire/pull/335) on [twireapp/Twire](https://github.com/twireapp/Twire) (9 months ago)
 - [Fix username Label](https://github.com/ATLauncher/ATLauncher/pull/500) on [ATLauncher/ATLauncher](https://github.com/ATLauncher/ATLauncher) (1 year ago)
-- [Allow to reverse the unix timestamp back.](https://github.com/schoenenberg/unixtime/pull/4) on [schoenenberg/unixtime](https://github.com/schoenenberg/unixtime) (1 year ago)
+- [Allow to reverse the unix timestamp back.](https://github.com/schoenenberg/unixtime/pull/4) on [schoenenberg/unixtime](https://github.com/schoenenberg/unixtime) (2 years ago)
 - [Remove notice by Apache License Authors](https://github.com/rust-random/rand/pull/1151) on [rust-random/rand](https://github.com/rust-random/rand) (2 years ago)
 - [Fix typos in README.md](https://github.com/m-242/vitric/pull/1) on [m-242/vitric](https://github.com/m-242/vitric) (2 years ago)
 
