@@ -15,7 +15,6 @@ of other projects. Curious what I've been hacking on recently?
 - [fossdd/wao-tracklist](https://github.com/fossdd/wao-tracklist) - Tracklist of nearly every played WeAreOne track (1 day ago)
 - [fossdd/compiler-analyses](https://github.com/fossdd/compiler-analyses) - Mirrored from https://codeberg.org/fossdd/compiler-analyses (1 day ago)
 - [fossdd/pijul](https://github.com/fossdd/pijul) - Latest version of pijul mirrored to GitHub (10 months ago)
-- [twireapp/Twire](https://github.com/twireapp/Twire) - Twire is an alternative and open source Twitch client for Android (1 year ago)
 
 #### 🌱 My latest projects
 
@@ -27,7 +26,6 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [twireapp/Twire](https://github.com/twireapp/Twire) ([v2.10.5](https://github.com/twireapp/Twire/releases/tag/v2.10.5), 2 months ago) - Twire is an alternative and open source Twitch client for Android
 
 #### 🔨 Latest Pull Requests I published
 
