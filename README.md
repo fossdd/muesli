@@ -12,8 +12,8 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [fossdd/wao-tracklist](https://github.com/fossdd/wao-tracklist) - Tracklist of nearly every played WeAreOne track (6 days ago)
-- [fossdd/compiler-analyses](https://github.com/fossdd/compiler-analyses) - Mirrored from https://codeberg.org/fossdd/compiler-analyses (6 days ago)
+- [fossdd/wao-tracklist](https://github.com/fossdd/wao-tracklist) - Tracklist of nearly every played WeAreOne track (1 week ago)
+- [fossdd/compiler-analyses](https://github.com/fossdd/compiler-analyses) - Mirrored from https://codeberg.org/fossdd/compiler-analyses (1 week ago)
 - [fossdd/pijul](https://github.com/fossdd/pijul) - Latest version of pijul mirrored to GitHub (11 months ago)
 
 #### 🌱 My latest projects
@@ -38,7 +38,7 @@ of other projects. Curious what I've been hacking on recently?
 #### 📜 My recent blog posts
 
 - [Self-hosting VSCode](https://fribbledom.com/posts/selfhosting-vscode/) (2 years ago)
-- [Installing Arch Linux with Full Disk Encryption](https://fribbledom.com/posts/encrypted-arch-install/) (3 years ago)
+- [Installing Arch Linux with Full Disk Encryption](https://fribbledom.com/posts/encrypted-arch-install/) (4 years ago)
 - [Remotely Installing a Fully-Encrypted Debian Server](https://fribbledom.com/posts/encrypted-remote-debian-install/) (4 years ago)
 - [Gamut, a Go Package to Manage Color Palettes](https://fribbledom.com/posts/gamut-package-to-handle-color-palettes/) (4 years ago)
 - [An Algorithm to Generate Color Palettes](https://fribbledom.com/posts/an-algorithm-to-generate-color-palettes/) (5 years ago)
