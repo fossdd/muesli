@@ -15,11 +15,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🌱 My latest projects
 
+- [fossdd/switch](https://github.com/fossdd/switch) - cool emulator
 - [fossdd/tenacity-webpage](https://github.com/fossdd/tenacity-webpage) - A working prototype I made for a possible redesign of the Tenacity website.
 - [fossdd/test2](https://github.com/fossdd/test2) - 
 - [fossdd/action-setup-pijul](https://github.com/fossdd/action-setup-pijul) - Set up your GitHub Actions workflow with Pijul
 - [fossdd/pijul](https://github.com/fossdd/pijul) - Latest version of pijul mirrored to GitHub
-- [fossdd/wao-tracklist](https://github.com/fossdd/wao-tracklist) - Tracklist of nearly every played WeAreOne track
 
 #### 🔭 Latest releases I've contributed to
 
