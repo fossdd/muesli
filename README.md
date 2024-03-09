@@ -26,7 +26,7 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔨 Latest Pull Requests I published
 
-- [Remove osstrtools-dependency](https://github.com/deathowl/ddlm/pull/11) on [deathowl/ddlm](https://github.com/deathowl/ddlm) (5 days ago)
+- [Remove osstrtools-dependency](https://github.com/deathowl/ddlm/pull/11) on [deathowl/ddlm](https://github.com/deathowl/ddlm) (6 days ago)
 - [Set default value for `start`-Flag](https://github.com/go-pluto/styx/pull/19) on [go-pluto/styx](https://github.com/go-pluto/styx) (1 month ago)
 - [add 7tv to readme](https://github.com/twireapp/Twire/pull/335) on [twireapp/Twire](https://github.com/twireapp/Twire) (2 years ago)
 - [Fix username Label](https://github.com/ATLauncher/ATLauncher/pull/500) on [ATLauncher/ATLauncher](https://github.com/ATLauncher/ATLauncher) (2 years ago)
