@@ -12,7 +12,7 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [xsf/xmpp.org](https://github.com/xsf/xmpp.org) - xmpp.org website (builds: https://github.com/xsf/xmpp.org/actions) (4 days ago)
+- [xsf/xmpp.org](https://github.com/xsf/xmpp.org) - xmpp.org website (builds: https://github.com/xsf/xmpp.org/actions) (5 days ago)
 
 #### 🌱 My latest projects
 
@@ -27,7 +27,7 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔨 Latest Pull Requests I published
 
-- [instant-messaging: use official documentation of WhatsApp](https://github.com/xsf/xmpp.org/pull/1355) on [xsf/xmpp.org](https://github.com/xsf/xmpp.org) (4 days ago)
+- [instant-messaging: use official documentation of WhatsApp](https://github.com/xsf/xmpp.org/pull/1355) on [xsf/xmpp.org](https://github.com/xsf/xmpp.org) (5 days ago)
 - [Remove osstrtools-dependency](https://github.com/deathowl/ddlm/pull/11) on [deathowl/ddlm](https://github.com/deathowl/ddlm) (1 week ago)
 - [Set default value for `start`-Flag](https://github.com/go-pluto/styx/pull/19) on [go-pluto/styx](https://github.com/go-pluto/styx) (1 month ago)
 - [add 7tv to readme](https://github.com/twireapp/Twire/pull/335) on [twireapp/Twire](https://github.com/twireapp/Twire) (2 years ago)
