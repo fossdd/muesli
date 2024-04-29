@@ -12,8 +12,8 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [fossdd/plugin.audio.weareone](https://github.com/fossdd/plugin.audio.weareone) - Kodi Plugin for the WeAreOne Family (today)
-- [save-nix-together/open-letter](https://github.com/save-nix-together/open-letter) - an open letter to the NixOS foundation (2 days ago)
+- [fossdd/plugin.audio.weareone](https://github.com/fossdd/plugin.audio.weareone) - Kodi Plugin for the WeAreOne Family (1 day ago)
+- [save-nix-together/open-letter](https://github.com/save-nix-together/open-letter) - an open letter to the NixOS foundation (3 days ago)
 - [xsf/xmpp.org](https://github.com/xsf/xmpp.org) - xmpp.org website (builds: https://github.com/xsf/xmpp.org/actions) (1 month ago)
 
 #### 🌱 My latest projects
@@ -29,8 +29,8 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔨 Latest Pull Requests I published
 
-- [docs: fix typo](https://github.com/Chatterino/chatterino2/pull/5368) on [Chatterino/chatterino2](https://github.com/Chatterino/chatterino2) (today)
-- [Add my signature](https://github.com/save-nix-together/open-letter/pull/119) on [save-nix-together/open-letter](https://github.com/save-nix-together/open-letter) (2 days ago)
+- [docs: fix typo](https://github.com/Chatterino/chatterino2/pull/5368) on [Chatterino/chatterino2](https://github.com/Chatterino/chatterino2) (1 day ago)
+- [Add my signature](https://github.com/save-nix-together/open-letter/pull/119) on [save-nix-together/open-letter](https://github.com/save-nix-together/open-letter) (3 days ago)
 - [instant-messaging: use official documentation of WhatsApp](https://github.com/xsf/xmpp.org/pull/1355) on [xsf/xmpp.org](https://github.com/xsf/xmpp.org) (1 month ago)
 - [Remove osstrtools-dependency](https://github.com/deathowl/ddlm/pull/11) on [deathowl/ddlm](https://github.com/deathowl/ddlm) (1 month ago)
 - [Set default value for `start`-Flag](https://github.com/go-pluto/styx/pull/19) on [go-pluto/styx](https://github.com/go-pluto/styx) (3 months ago)
