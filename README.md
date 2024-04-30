@@ -29,11 +29,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔨 Latest Pull Requests I published
 
+- [Upgrade to Alpine v3.19 and add cargo as dependency](https://github.com/fish-shell/fish-shell/pull/10471) on [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) (today)
+- [Upgrade to Alpine Linux v3.19](https://github.com/jesseduffield/lazygit/pull/3541) on [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) (today)
 - [docs: fix typo](https://github.com/Chatterino/chatterino2/pull/5368) on [Chatterino/chatterino2](https://github.com/Chatterino/chatterino2) (2 days ago)
 - [Add my signature](https://github.com/save-nix-together/open-letter/pull/119) on [save-nix-together/open-letter](https://github.com/save-nix-together/open-letter) (4 days ago)
 - [instant-messaging: use official documentation of WhatsApp](https://github.com/xsf/xmpp.org/pull/1355) on [xsf/xmpp.org](https://github.com/xsf/xmpp.org) (1 month ago)
-- [Remove osstrtools-dependency](https://github.com/deathowl/ddlm/pull/11) on [deathowl/ddlm](https://github.com/deathowl/ddlm) (1 month ago)
-- [Set default value for `start`-Flag](https://github.com/go-pluto/styx/pull/19) on [go-pluto/styx](https://github.com/go-pluto/styx) (3 months ago)
 
 #### 📜 My recent blog posts
 
