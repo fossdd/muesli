@@ -33,11 +33,11 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔨 Latest Pull Requests I published
 
+- [github: add issue templates](https://github.com/alpinelinux/docker-alpine/pull/391) on [alpinelinux/docker-alpine](https://github.com/alpinelinux/docker-alpine) (today)
 - [Upgrade to Alpine v3.19 and add cargo as dependency](https://github.com/fish-shell/fish-shell/pull/10471) on [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) (1 week ago)
 - [Upgrade to Alpine Linux v3.19](https://github.com/jesseduffield/lazygit/pull/3541) on [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) (1 week ago)
 - [docs: fix typo](https://github.com/Chatterino/chatterino2/pull/5368) on [Chatterino/chatterino2](https://github.com/Chatterino/chatterino2) (1 week ago)
 - [Add my signature](https://github.com/save-nix-together/open-letter/pull/119) on [save-nix-together/open-letter](https://github.com/save-nix-together/open-letter) (2 weeks ago)
-- [instant-messaging: use official documentation of WhatsApp](https://github.com/xsf/xmpp.org/pull/1355) on [xsf/xmpp.org](https://github.com/xsf/xmpp.org) (2 months ago)
 
 #### 📜 My recent blog posts
 
