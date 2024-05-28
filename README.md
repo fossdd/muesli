@@ -12,10 +12,10 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [fossdd/wao-tracklist](https://github.com/fossdd/wao-tracklist) - Tracklist of every played WeAreOne track (2 days ago)
-- [Chatterino/chatterino2](https://github.com/Chatterino/chatterino2) - Chat client for https://twitch.tv (3 weeks ago)
-- [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell. (3 weeks ago)
-- [fossdd/plugin.audio.weareone](https://github.com/fossdd/plugin.audio.weareone) - Kodi Plugin for the WeAreOne Family (4 weeks ago)
+- [fossdd/wao-tracklist](https://github.com/fossdd/wao-tracklist) - Tracklist of every played WeAreOne track (3 days ago)
+- [Chatterino/chatterino2](https://github.com/Chatterino/chatterino2) - Chat client for https://twitch.tv (4 weeks ago)
+- [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell. (4 weeks ago)
+- [fossdd/plugin.audio.weareone](https://github.com/fossdd/plugin.audio.weareone) - Kodi Plugin for the WeAreOne Family (1 month ago)
 - [save-nix-together/open-letter](https://github.com/save-nix-together/open-letter) - an open letter to the NixOS foundation (1 month ago)
 
 #### 🌱 My latest projects
@@ -34,9 +34,9 @@ of other projects. Curious what I've been hacking on recently?
 #### 🔨 Latest Pull Requests I published
 
 - [github: add issue templates](https://github.com/alpinelinux/docker-alpine/pull/391) on [alpinelinux/docker-alpine](https://github.com/alpinelinux/docker-alpine) (2 weeks ago)
-- [Upgrade to Alpine v3.19 and add cargo as dependency](https://github.com/fish-shell/fish-shell/pull/10471) on [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) (3 weeks ago)
-- [Upgrade to Alpine Linux v3.19](https://github.com/jesseduffield/lazygit/pull/3541) on [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) (3 weeks ago)
-- [docs: fix typo](https://github.com/Chatterino/chatterino2/pull/5368) on [Chatterino/chatterino2](https://github.com/Chatterino/chatterino2) (4 weeks ago)
+- [Upgrade to Alpine v3.19 and add cargo as dependency](https://github.com/fish-shell/fish-shell/pull/10471) on [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) (4 weeks ago)
+- [Upgrade to Alpine Linux v3.19](https://github.com/jesseduffield/lazygit/pull/3541) on [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) (4 weeks ago)
+- [docs: fix typo](https://github.com/Chatterino/chatterino2/pull/5368) on [Chatterino/chatterino2](https://github.com/Chatterino/chatterino2) (1 month ago)
 - [Add my signature](https://github.com/save-nix-together/open-letter/pull/119) on [save-nix-together/open-letter](https://github.com/save-nix-together/open-letter) (1 month ago)
 
 #### 📜 My recent blog posts
