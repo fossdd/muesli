@@ -28,7 +28,7 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) ([v0.43.0](https://github.com/jesseduffield/lazygit/releases/tag/v0.43.0), today) - simple terminal UI for git commands
+- [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) ([v0.43.1](https://github.com/jesseduffield/lazygit/releases/tag/v0.43.1), today) - simple terminal UI for git commands
 - [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) ([3.7.1](https://github.com/fish-shell/fish-shell/releases/tag/3.7.1), 3 months ago) - The user-friendly command line shell.
 - [Chatterino/chatterino2](https://github.com/Chatterino/chatterino2) ([nightly-build](https://github.com/Chatterino/chatterino2/releases/tag/nightly-build), 2 years ago) - Chat client for https://twitch.tv
 
