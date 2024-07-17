@@ -12,7 +12,7 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [fossdd/wao-tracklist](https://github.com/fossdd/wao-tracklist) - Tracklist of every played WeAreOne track (3 days ago)
+- [fossdd/wao-tracklist](https://github.com/fossdd/wao-tracklist) - Tracklist of every played WeAreOne track (4 days ago)
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands (2 months ago)
 - [Chatterino/chatterino2](https://github.com/Chatterino/chatterino2) - Chat client for https://twitch.tv (2 months ago)
 - [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell. (2 months ago)
@@ -28,8 +28,8 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) ([v0.43.1](https://github.com/jesseduffield/lazygit/releases/tag/v0.43.1), 3 days ago) - simple terminal UI for git commands
-- [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) ([3.7.1](https://github.com/fish-shell/fish-shell/releases/tag/3.7.1), 3 months ago) - The user-friendly command line shell.
+- [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) ([v0.43.1](https://github.com/jesseduffield/lazygit/releases/tag/v0.43.1), 4 days ago) - simple terminal UI for git commands
+- [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) ([3.7.1](https://github.com/fish-shell/fish-shell/releases/tag/3.7.1), 4 months ago) - The user-friendly command line shell.
 - [Chatterino/chatterino2](https://github.com/Chatterino/chatterino2) ([nightly-build](https://github.com/Chatterino/chatterino2/releases/tag/nightly-build), 2 years ago) - Chat client for https://twitch.tv
 
 #### 🔨 Latest Pull Requests I published
