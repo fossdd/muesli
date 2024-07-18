@@ -12,7 +12,7 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [fossdd/wao-tracklist](https://github.com/fossdd/wao-tracklist) - Tracklist of every played WeAreOne track (4 days ago)
+- [fossdd/wao-tracklist](https://github.com/fossdd/wao-tracklist) - Tracklist of every played WeAreOne track (5 days ago)
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands (2 months ago)
 - [Chatterino/chatterino2](https://github.com/Chatterino/chatterino2) - Chat client for https://twitch.tv (2 months ago)
 - [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell. (2 months ago)
@@ -28,13 +28,13 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) ([v0.43.1](https://github.com/jesseduffield/lazygit/releases/tag/v0.43.1), 4 days ago) - simple terminal UI for git commands
+- [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) ([v0.43.1](https://github.com/jesseduffield/lazygit/releases/tag/v0.43.1), 5 days ago) - simple terminal UI for git commands
 - [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) ([3.7.1](https://github.com/fish-shell/fish-shell/releases/tag/3.7.1), 4 months ago) - The user-friendly command line shell.
 - [Chatterino/chatterino2](https://github.com/Chatterino/chatterino2) ([nightly-build](https://github.com/Chatterino/chatterino2/releases/tag/nightly-build), 2 years ago) - Chat client for https://twitch.tv
 
 #### 🔨 Latest Pull Requests I published
 
-- [Add Alpine Linux installation instructions](https://github.com/kanidm/kanidm/pull/2871) on [kanidm/kanidm](https://github.com/kanidm/kanidm) (1 week ago)
+- [Add Alpine Linux installation instructions](https://github.com/kanidm/kanidm/pull/2871) on [kanidm/kanidm](https://github.com/kanidm/kanidm) (2 weeks ago)
 - [github: add issue templates](https://github.com/alpinelinux/docker-alpine/pull/391) on [alpinelinux/docker-alpine](https://github.com/alpinelinux/docker-alpine) (2 months ago)
 - [Upgrade to Alpine v3.19 and add cargo as dependency](https://github.com/fish-shell/fish-shell/pull/10471) on [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) (2 months ago)
 - [Upgrade to Alpine Linux v3.19](https://github.com/jesseduffield/lazygit/pull/3541) on [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) (2 months ago)
