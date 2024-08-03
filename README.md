@@ -12,8 +12,8 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
+- [fossdd/wao-tracklist](https://github.com/fossdd/wao-tracklist) - Tracklist of every played WeAreOne track (today)
 - [kanidm/kanidm](https://github.com/kanidm/kanidm) - Kanidm: A simple, secure and fast identity management platform (4 days ago)
-- [fossdd/wao-tracklist](https://github.com/fossdd/wao-tracklist) - Tracklist of every played WeAreOne track (1 week ago)
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands (3 months ago)
 - [Chatterino/chatterino2](https://github.com/Chatterino/chatterino2) - Chat client for https://twitch.tv (3 months ago)
 - [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell. (3 months ago)
