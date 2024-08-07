@@ -12,7 +12,7 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 👷 Check out what I'm currently working on
 
-- [fossdd/wao-tracklist](https://github.com/fossdd/wao-tracklist) - Tracklist of every played WeAreOne track (3 days ago)
+- [fossdd/wao-tracklist](https://github.com/fossdd/wao-tracklist) - Tracklist of every played WeAreOne track (4 days ago)
 - [kanidm/kanidm](https://github.com/kanidm/kanidm) - Kanidm: A simple, secure and fast identity management platform (1 week ago)
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands (3 months ago)
 - [Chatterino/chatterino2](https://github.com/Chatterino/chatterino2) - Chat client for https://twitch.tv (3 months ago)
@@ -28,14 +28,14 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [kanidm/kanidm](https://github.com/kanidm/kanidm) ([debs](https://github.com/kanidm/kanidm/releases/tag/debs), 1 day ago) - Kanidm: A simple, secure and fast identity management platform
+- [kanidm/kanidm](https://github.com/kanidm/kanidm) ([debs](https://github.com/kanidm/kanidm/releases/tag/debs), 2 days ago) - Kanidm: A simple, secure and fast identity management platform
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) ([v0.43.1](https://github.com/jesseduffield/lazygit/releases/tag/v0.43.1), 3 weeks ago) - simple terminal UI for git commands
 - [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) ([3.7.1](https://github.com/fish-shell/fish-shell/releases/tag/3.7.1), 4 months ago) - The user-friendly command line shell.
 - [Chatterino/chatterino2](https://github.com/Chatterino/chatterino2) ([nightly-build](https://github.com/Chatterino/chatterino2/releases/tag/nightly-build), 2 years ago) - Chat client for https://twitch.tv
 
 #### 🔨 Latest Pull Requests I published
 
-- [[v2] Use higher key size for TestSha256RSADigestValidator](https://github.com/aws/aws-cli/pull/8838) on [aws/aws-cli](https://github.com/aws/aws-cli) (4 days ago)
+- [[v2] Use higher key size for TestSha256RSADigestValidator](https://github.com/aws/aws-cli/pull/8838) on [aws/aws-cli](https://github.com/aws/aws-cli) (5 days ago)
 - [Run rust_build CI between multiple Rust versions](https://github.com/kanidm/kanidm/pull/2939) on [kanidm/kanidm](https://github.com/kanidm/kanidm) (1 week ago)
 - [Add Alpine Linux installation instructions](https://github.com/kanidm/kanidm/pull/2871) on [kanidm/kanidm](https://github.com/kanidm/kanidm) (1 month ago)
 - [github: add issue templates](https://github.com/alpinelinux/docker-alpine/pull/391) on [alpinelinux/docker-alpine](https://github.com/alpinelinux/docker-alpine) (2 months ago)
