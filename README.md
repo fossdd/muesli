@@ -28,7 +28,7 @@ of other projects. Curious what I've been hacking on recently?
 
 #### 🔭 Latest releases I've contributed to
 
-- [kanidm/kanidm](https://github.com/kanidm/kanidm) ([debs](https://github.com/kanidm/kanidm/releases/tag/debs), 2 days ago) - Kanidm: A simple, secure and fast identity management platform
+- [kanidm/kanidm](https://github.com/kanidm/kanidm) ([v1.3.0](https://github.com/kanidm/kanidm/releases/tag/v1.3.0), today) - Kanidm: A simple, secure and fast identity management platform
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) ([v0.43.1](https://github.com/jesseduffield/lazygit/releases/tag/v0.43.1), 3 weeks ago) - simple terminal UI for git commands
 - [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) ([3.7.1](https://github.com/fish-shell/fish-shell/releases/tag/3.7.1), 4 months ago) - The user-friendly command line shell.
 - [Chatterino/chatterino2](https://github.com/Chatterino/chatterino2) ([nightly-build](https://github.com/Chatterino/chatterino2/releases/tag/nightly-build), 2 years ago) - Chat client for https://twitch.tv
